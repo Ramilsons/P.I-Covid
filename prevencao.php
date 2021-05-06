@@ -10,21 +10,21 @@
 
 <body>
     <header>
-        <nav>
+    <nav>
             <ul>
-                <li><a href="home.html">Home</a></li>
-                <li><a href="prevencao.html">Prevenção</a></li>
-                <li><a href="formas_contagio.html">Formas de Contágio</a></li>
-                <li><a href="vacinas.html">Vacinas Contra COVID</a></li>
+                <li><a href="home.php">Home</a></li>
+                <li><a href="prevencao.php">Prevenção</a></li>
+                <li><a href="formas_contagio.php">Formas de Contágio</a></li>
+                <li><a href="vacinas.php">Vacinas Contra COVID</a></li>
                 <li>
-                    <a href="home.html">
+                    <a href="home.php">
                         <img src="" alt="">
                     </a>
                 </li>
-                <li><a href="sintomas.html">Sintomas</a></li>
-                <li><a href="casos_sp.html">Casos em S.P.</a></li>
-                <li><a href="estatisticas.html">Estatisticas</a></li>
-                <li><a href="fases_contencao.html">Fases de Contenção</a></li>
+                <li><a href="sintomas.php">Sintomas</a></li>
+                <li><a href="casos_sp.php">Casos em S.P.</a></li>
+                <li><a href="estatisticas.php">Estatisticas</a></li>
+                <li><a href="fases_contencao.php">Fases de Contenção</a></li>
             </ul>
         </nav>
     </header>
@@ -62,22 +62,22 @@
         <img src="">
         <nav>
             <ul>
-                <li><a href="prevencao.html">Prevenção</a></li>
-                <li><a href="sintomas.html">Sintomas</a></li>
-                <li><a href="formas_contagio.html">Formas de Contágio</a></li>
-                <li><a href="vacinas.html">Vacina Contra a COVID-19</a></li>
+                <li><a href="prevencao.php">Prevenção</a></li>
+                <li><a href="sintomas.php">Sintomas</a></li>
+                <li><a href="formas_contagio.php">Formas de Contágio</a></li>
+                <li><a href="vacinas.php">Vacina Contra a COVID-19</a></li>
             </ul>
             <ul>
-                <li><a href="fases_contencao.html">Fases de contenção</a></li>
-                <li><a href="estatisticas.html">Estatisticas</a></li>
-                <li><a href="casos_sp.html">Casos em Sp</a></li>
-                <li><a href="contato.html">Contato</a></li>
+                <li><a href="fases_contencao.php">Fases de contenção</a></li>
+                <li><a href="estatisticas.php">Estatisticas</a></li>
+                <li><a href="casos_sp.php">Casos em Sp</a></li>
+                <li><a href="contato.php">Contato</a></li>
             </ul>
             <ul>
-                <li><a href="duvidas.html">Dúvidas Frequentes</a></li>
-                <li><a href="fakenews.html">Fake News</a></li>
-                <li><a href="normas.html">Normas de uso</a></li>
-                <li><a href="quemsomos.html">Quem somos?</a></li>
+                <li><a href="duvidas.php">Dúvidas Frequentes</a></li>
+                <li><a href="fakenews.php">Fake News</a></li>
+                <li><a href="normas.php">Normas de uso</a></li>
+                <li><a href="quemsomos.php">Quem somos?</a></li>
             </ul>
         </nav>
         <section>
