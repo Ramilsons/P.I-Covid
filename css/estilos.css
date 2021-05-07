@@ -1,0 +1,21 @@
+body{
+    overflow-x: hidden;
+}
+.text-dark{
+     font-family: 'Roboto', sans-serif !important;
+     font-size: 18px !important;
+}
+.text-dark:hover{
+    color: #cebc9ccc !important;
+}
+
+#brand_esquerda{
+    display: none;
+}
+
+/* Gambs para a imagem sair do menu */
+@media (max-width: 1198px) {
+    #brand_esquerda{display: block;}
+    #imagem_menu{display: none;}
+    #link_ajuste{margin-top: -8px;}
+  }

@@ -8,33 +8,19 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- esse cara carrega os ícones do Bootstrap 5 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
-    <title>Casos no Brasil</title>
+    <!-- Estilos de fonte adicionais -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <title>Casos em São Paulo</title>
 </head>
 
 <body>
-    <header>
-    <nav>
-      <ul>
-          <li><a href="home.html">Home</a></li>
-          <li><a href="prevencao.html">Prevenção</a></li>
-          <li><a href="formas_contagio.html">Formas de Contágio</a></li>
-          <li><a href="vacinas.html">Vacinas Contra COVID</a></li>
-          <li>
-              <a href="home.html">
-                  <img src="" alt="">
-              </a>
-          </li>
-          <li><a href="sintomas.html">Sintomas</a></li>
-          <li><a href="casos_sp.html">Casos em S.P.</a></li>
-          <li><a href="estatisticas.html">Estatisticas</a></li>
-          <li><a href="fases_contencao.html">Fases de Contenção</a></li>
-      </ul>
-  </nav>
-    </header>
+    <!-- Header php -->
+    <?php include "includes/header.php"; ?>
     <MAIN>
         <article>
             <header>
-                <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1> 
+                <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1>
                 <img src="" alt="">
             </header>
             <section>
@@ -95,6 +81,7 @@
             <img src="">
         </section>
     </footer>
+    <script src="js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
