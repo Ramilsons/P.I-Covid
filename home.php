@@ -103,33 +103,8 @@
             </section>
         </section>
     </MAIN>
-    <footer>
-        <img src="">
-        <nav>
-            <ul>
-                <li><a href="prevencao.php">Prevenção</a></li>
-                <li><a href="sintomas.php">Sintomas</a></li>
-                <li><a href="formas_contagio.php">Formas de Contágio</a></li>
-                <li><a href="vacinas.php">Vacina Contra a COVID-19</a></li>
-            </ul>
-            <ul>
-                <li><a href="fases_contencao.php">Fases de contenção</a></li>
-                <li><a href="estatisticas.php">Estatisticas</a></li>
-                <li><a href="casos_sp.php">Casos em Sp</a></li>
-                <li><a href="contato.php">Contato</a></li>
-            </ul>
-            <ul>
-                <li><a href="duvidas.php">Dúvidas Frequentes</a></li>
-                <li><a href="fakenews.php">Fake News</a></li>
-                <li><a href="normas.php">Normas de uso</a></li>
-                <li><a href="quemsomos.php">Quem somos?</a></li>
-            </ul>
-        </nav>
-        <section>
-            <img src="">
-            <img src="">
-        </section>
-    </footer>
+    <!-- Footer php -->
+    <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>
 </body>
 

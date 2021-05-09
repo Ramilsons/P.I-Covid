@@ -20,8 +20,8 @@
     <header>
         <nav class="navbar navbar-expand-xl navbar-light">
             <div class="container-fluid">
-                <a class="navbar-brand" id="brand_esquerda" href="#">
-                    <img src="img/logo.jpeg" class="img-fluid ms-2" alt="..." width="60" height="45">
+                <a href="home.php" class="navbar-brand" id="brand_esquerda" href="#">
+                    <img src="img/logo.png" class="img-fluid ms-2" alt="..." width="60" height="45">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -41,7 +41,7 @@
                             <a class="nav-link text-dark text-nowrap mt-1 fw-bolder" href="vacinas.php">Vacinas Contra COVID</a>
                         </li>
                         <li class="nav-item navbar-brand">
-                            <a class="navbar-brand" id="imagem_menu" href="#">
+                            <a class="navbar-brand" id="imagem_menu" href="home.php">
                                 <img src="img/logo.png" class="ms-4 img-fluid" alt="..." width="75" height="69">
                             </a>
                         </li>
