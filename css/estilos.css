@@ -19,3 +19,33 @@ body{
     #imagem_menu{display: none;}
     #link_ajuste{margin-top: -8px;}
   }
+
+  #footer_menu{
+      clear:right !important;
+      margin-bottom: 40px;
+  }
+
+#order{
+    list-style: none !important;
+}
+#footer_div{
+    background-color: #297A83;
+}
+#link_menu_footer{
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 18px !important;
+    text-decoration: underline !important;
+}
+#li_footer{
+    margin-top: -15px;
+}
+#img_footer{
+    margin: 20px 0px 30px 65px;
+}
+#img2_footer{
+    margin: 0px 25px 0px 45px;
+}
+#img3_footer{
+    margin: 0px 25px 0px 45px;
+}

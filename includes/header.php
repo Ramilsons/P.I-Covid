@@ -42,7 +42,7 @@
                         </li>
                         <li class="nav-item navbar-brand">
                             <a class="navbar-brand" id="imagem_menu" href="#">
-                                <img src="img/logo.png" class="ms-4"  img-fluid" alt="..." width="75" height="69">
+                                <img src="img/logo.png" class="ms-4 img-fluid" alt="..." width="75" height="69">
                             </a>
                         </li>
                         <li class="nav-item" id="link_ajuste">
