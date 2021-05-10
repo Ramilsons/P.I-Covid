@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../css/estilos.css">
-    <!-- esse cara carrega os ícones do Bootstrap 5 -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
-    <!-- Estilos de fonte adicionais -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <title>Footer</title>
-</head>
-
-<body>
-    <footer>
+<footer>
         <div class="clearfix position-relative" id="footer_div">
             <a href="home.php"><img src="img/logo.png" class="img-fluid" id="img_footer" width="80" height="76" alt=""></a>
             <div class="row">
@@ -75,8 +56,4 @@
             <a href="https://twitter.com/"><i class="bi bi-twitter ms-5" id="twitter_icon"></i></a>
             </div>
         </div>
-    </footer>
-    <script src="js/bootstrap.bundle.min.js"></script>
-</body>
-
-</html>
+</footer>

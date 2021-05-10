@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
     <!-- Estilos de fonte adicionais -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="./css/estilos.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <title>Vacina contra COVID-19</title>
 </head>

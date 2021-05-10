@@ -13,11 +13,14 @@ body{
     display: none;
 }
 
-/* Gambs para a imagem sair do menu */
-@media (max-width: 1198px) {
+
+@media (max-width: 1199px) {
     #brand_esquerda{display: block;}
     #imagem_menu{display: none;}
     #link_ajuste{margin-top: -8px;}
+    li.nav-item.navbar-brand{
+        display: none !important;
+    }
   }
 
   #footer_menu{
