@@ -71,8 +71,8 @@
                 </nav>
             </div>
             <div class="position-absolute bottom-0 start-50 mb-5">
-            <a href="https://www.facebook.com/"><i class="bi bi-facebook me-5" id="facebook_icon"></i>  </a>
-            <a href="https://twitter.com/"><i class="bi bi-twitter ms-5" id="twitter_icon"></i></a>
+            <a href="https://www.facebook.com/"><i class="bi bi-facebook ms-5 me-5" id="facebook_icon"></i>  </a>
+            <a href="https://twitter.com/"><i class="bi bi-twitter ms-0" id="twitter_icon"></i></a>
             </div>
         </div>
     </footer>

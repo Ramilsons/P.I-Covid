@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="css/estilos.css" rel="stylesheet">
     <!-- esse cara carrega os ícones do Bootstrap 5 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
     <!-- Estilos de fonte adicionais -->
@@ -19,44 +20,59 @@
     <?php include "includes/header.php"; ?>
     <MAIN>
         <article>
-            <h1>Sintomas</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula ex in lectus pellentesque, id
-                convallis orci egestas. Vestibulum vehicula magna interdum risus iaculis, sed convallis neque
-                cursus. Nulla feugiat lacus facilisis, mollis arcu sed, auctor ligula. Sed risus dolor, lobortis et
-                massa eget, euismod aliquam quam. Integer sollicitudin orci in purus consectetur, id pretium nibh
-                iaculis. Vestibulum scelerisque nulla urna, in congue mauris pretium ac. Fusce in nisi eu neque
-                suscipit semper eget in augue. Quisque sed augue aliquet augue facilisis accumsan. Ut at tellus ac
-                tortor consequat pellentesque.</p>
-            <section>
-                <img src="" alt="">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula ex in lectus pellentesque, id
-                    convallis orci e
-                </p>
-            </section>
-            <section>
-                <img src="" alt="">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula ex in lectus pellentesque, id
-                    convallis orci e
-                </p>
-            </section>
-            <section>
-                <img src="" alt="">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula ex in lectus pellentesque, id
-                    convallis orci e
-                </p>
-            </section>
-            <section>
-                <img src="" alt="">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula ex in lectus pellentesque, id
-                    convallis orci e
-                </p>
-            </section>
+            <div class="container">
+                <div class="row col-12">
+                    <div class="col-12 align-self-start" id="Titulo_sintomas" style="margin-top: 30px; font-size: 1.0em;">
+                        <h1 class="display-4" style="margin-left: 15px;">Sintomas</h1>
+                    </div>
+                    <div class="col-12 align-self-start" id="Corpo_sintomas" >
+                        <p class="lead" style="margin-top: 30px; margin-left: 15px; font-size: 1.0em;">
+                            O número de infectados em nosso país cresce cada vez mais. Devido a isso devemos salientar os primeiros sintomas que são apresentados quando contraimos o virus, já que eles podem ser facilmente confundidos com os sintomas de outras doenças.
+                            O periodo de incubação do virús é de 2 a 14 dias, esse é o tempo que demora para os sintomas aparecerem.
+                            Os primeiros indicios de manifestação do vírus são: febre e tosse. Dificuldades para respirar e fadiga costumam aparecer durante a progressão da doença. Durante o sétimo dia 80% das pessoas conseguem uma melhora dos sintomas. Caso eles persistam o quadro passa a ser moderado. Nos casos mais complicados, os sintomas se intensificam causando insuficiência respiratória e necessidade de utilizar ventilação mecãnica.
+                        </p>
+                    </div>
+                </div>
+                <div class="row mb-5" id="cards">
+                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-6 h-25" id="card_1">
+                        <div class="card">
+                            <img src="img/Febre.png" class="card-img-top img-fluid" alt="...">
+                            <div class="card-body">
+                                <p class="card-text" id="p_card">A febre é um dos primeiros sintomas da Covid-19, junto com tosse. Normalmente aparece durante 2 a 14 dias.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-6 h-25" id="card_1">
+                        <div class="card">
+                            <img src="img/Tosse Seca.jpg" class="card-img-top img-fluid" alt="...">
+                            <div class="card-body">
+                                <p class="card-text">A tosse vem acompanhada de febre geralmente. Esse sintoma pode se intensificar durante a manisfestação do vírus.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-6 h-25" id="card_1">
+                        <div class="card">
+                            <img src="img/Fadiga.jpg" class="card-img-top img-fluid" alt="...">
+                            <div class="card-body">
+                                <p class="card-text">Após a progressão da doença normalmente a fadiga começa a aparecer, podendo aumentar bastante em casos graves.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-6 h-25" id="card_1">
+                        <div class="card">
+                            <img src="img/Falta de ar.png" class="card-img-top img-fluid" alt="...">
+                            <div class="card-body">
+                                <p class="card-text" id="p_card">A falta de ar é o sintoma mais conhecido da Covid-19. Ele estará muito presente em casos graves e moderados.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </article>
     </MAIN>
+    <div class="row align-self-start">
+        <!-- <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús"> -->
+    </div>
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>
