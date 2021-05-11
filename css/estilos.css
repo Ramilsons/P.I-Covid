@@ -1,18 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=DM+Sans:wght@400;500;700&display=swap');
+*{
+    font-family: 'DM Sans', sans-serif;
+    color: rgb(77, 75, 75);
+}
+h1{
+    font-family: 'DM Sans', sans-serif;
+}
 body{
     overflow-x: hidden;
 }
+header{
+    font-weight: 200;
+}
 .text-dark{
-     font-family: 'Roboto', sans-serif !important;
-     font-size: 18px !important;
+    font-size: 18px !important;
 }
 .text-dark:hover{
-    color: #cebc9ccc !important;
+    color: #297A83 !important;
+    border-bottom: 1px solid #297A83;
 }
-
 #brand_esquerda{
     display: none;
 }
 
+.navbar-collapse.collapse.show{
+    background-color: #ffffff;
+}
 
 @media (max-width: 1199px) {
     #brand_esquerda{display: block;}

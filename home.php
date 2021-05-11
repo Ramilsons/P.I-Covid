@@ -12,6 +12,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="./css/home.css">
     <title>Home</title>
 </head>
 
@@ -28,23 +29,27 @@
                 <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h2>
                 <button></button>
             </section>
-            <section>
-                <section>
-                    <h4>Lorem Ipsum</h4>
-                    <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
-                </section>
-                <section>
-                    <h4>Lorem Ipsum</h4>
-                    <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
-                </section>
-                <section>
-                    <h4>Lorem Ipsum</h4>
-                    <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
-                </section>
-                <section>
-                    <h4>Lorem Ipsum</h4>
-                    <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
-                </section>
+            <section class="atualizacoes">
+                <div clas="container">
+                <div class="row justify-content-md-center">
+                    <section class="col-3 text-center">
+                        <h4>Lorem Ipsum</h4>
+                        <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
+                    </section>
+                    <section class="col-3 text-center">
+                        <h4>Lorem Ipsum</h4>
+                        <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
+                    </section>
+                    <section class="col-3 text-center">
+                        <h4>Lorem Ipsum</h4>
+                        <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
+                    </section>
+                    <section class="col-3 text-center">
+                        <h4>Lorem Ipsum</h4>
+                        <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
+                    </section>
+                </div>
+                </div>
             </section>
         </article>
         <aside>

@@ -11,7 +11,7 @@
     <!-- Estilos de fonte adicionais -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="./css/estilos.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/prevencao.css">
     <title>Prevenção</title>
 </head>
 
@@ -19,33 +19,27 @@
     <!-- Header php -->
     <?php include "includes/header.php"; ?>
     <main>
-        <img src="">
-        <article>
+        <img class="rounded mx-auto mt-5 mb-5 d-block img-fluid" src="./img/prevencao-banner.png" alt="Cadeado símbolizando segurança e prevenção">
+        <article class="container mb-5">
             <h1>Como se prevenir?</h1>
-            <section>
-                <img src="">
-                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate accusantium commodi earum!
-                    Tempore voluptate veniam deleniti tempora corporis nemo ipsum molestias hic omnis consequuntur quasi
-                    quaerat eum blanditiis, dignissimos harum!</h3>
-            </section>
-            <section>
-                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate accusantium commodi earum!
-                    Tempore voluptate veniam deleniti tempora corporis nemo ipsum molestias hic omnis consequuntur quasi
-                    quaerat eum blanditiis, dignissimos harum!</h3>
-                <img src="">
-            </section>
-            <section>
-                <img src="">
-                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate accusantium commodi earum!
-                    Tempore voluptate veniam deleniti tempora corporis nemo ipsum molestias hic omnis consequuntur quasi
-                    quaerat eum blanditiis, dignissimos harum!</h3>
-            </section>
-            <section>
-                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate accusantium commodi earum!
-                    Tempore voluptate veniam deleniti tempora corporis nemo ipsum molestias hic omnis consequuntur quasi
-                    quaerat eum blanditiis, dignissimos harum!</h3>
-                <img src="">
-            </section>
+            <div class="row justify-content-md-center">
+                <section class="col-sm-12 col-lg-5 topico">
+                    <img src="./img/icon1-prev.png" alt="Mãos sendo lavadas">
+                    <h3>Lave as mãos constantemente com água e sabão ou álcool em gel</h3>
+                </section>
+                <section class="col-sm-12 col-lg-5 topico" alt="Dois bonecos e uma seta abaixo indicando distanciamento">
+                    <h3>Mantenha uma distância segura de pessoas</h3>
+                    <img src="./img/icon2.png">
+                </section>
+                <section class="col-sm-12 col-lg-5 topico">
+                    <img src="./img/icon3.png" alt="Máscara de proteção">
+                    <h3>Use máscara</h3>
+                </section>
+                <section class="col-sm-12 col-lg-5 topico" alt="Casa na cor verde">
+                    <h3>Fique em casa, se possível</h3>
+                    <img src="./img/icon4.png">
+                </section>
+            </div>
         </article>
     </main>
     <!-- Footer php -->

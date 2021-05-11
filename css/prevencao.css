@@ -1,0 +1,36 @@
+h1{
+    margin-left: 7%;
+    font-size: 33px;
+    margin-bottom: 50px;
+}
+
+.topico{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #F3F3F3;
+    height: 170px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.topico h3{
+    width: 60%;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+div.row{
+    width: 90%;
+    margin: 0 auto;
+}
+
+@media (max-width:576px){
+    .topico{
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
