@@ -22,35 +22,22 @@
 
     <MAIN>
         <article>
-            <section>
-                <h3>Olá, boa tarde!</h3>
-                <img src="">
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h1>
-                <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h2>
-                <button></button>
-            </section>
-            <section class="atualizacoes">
-                <div clas="container">
-                <div class="row justify-content-md-center">
-                    <section class="col-3 text-center">
-                        <h4>Lorem Ipsum</h4>
-                        <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
-                    </section>
-                    <section class="col-3 text-center">
-                        <h4>Lorem Ipsum</h4>
-                        <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
-                    </section>
-                    <section class="col-3 text-center">
-                        <h4>Lorem Ipsum</h4>
-                        <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
-                    </section>
-                    <section class="col-3 text-center">
-                        <h4>Lorem Ipsum</h4>
-                        <h5>Lorem ipsum dolor sit r adipisicing elit.</h5>
-                    </section>
+        <div class="container mt-5">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-6">
+                        <h1 class="display-4 text-left" id="titulo_cumprimento">Olá, boa tarde!</h3>
+                        <img src="img/Covid_Home.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-1  text-center">
+                        <h1 class="display-6 col-sm-12" id="saiba_mais">Saiba tudo sobre o COVID-19</h1>
+                        <h1 class="display-6 col-sm-12" id="subtitulo_cinza" >Como se prevenir, sintomas, estatísticas, vacina e muito mais.</h2>
+                        <a class="btn btn-primary btn-lg col-12" id="botao_verde" href="#" role="button">Ver tópicos</a>
+                    </div>
                 </div>
-                </div>
-            </section>
+            </div>
+            <div class="row" style="background-color: gray;">
+                
+            </div>
         </article>
         <aside>
             <header>

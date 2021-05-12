@@ -2,3 +2,25 @@
     background-color: #F0F0F0;
     padding: 12px;
 }
+
+#titulo_cumprimento{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: 1.8em; 
+    margin: -20px 100px 60px 0px; 
+    font-weight: bold;
+}
+#saiba_mais{
+    font-size: 3.0em; 
+    margin-bottom: 20px; 
+    font-weight: bold;
+}
+#subtitulo_cinza{
+    font-size: 3.0em; 
+    color:#cebc9ccc; 
+    margin-bottom: 40px;
+}
+#botao_verde{
+    width: 300px; 
+    background-color: #297A83; 
+    color: #FFFFFF;
+}

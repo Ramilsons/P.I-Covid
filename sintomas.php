@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
     <!-- Estilos de fonte adicionais -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="css/sintomas.css">
     <link rel="stylesheet" href="css/estilos.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <title>Sintomas</title>
@@ -23,8 +24,8 @@
         <article>
             <div class="container">
                 <div class="row col-12">
-                    <div class="col-12 align-self-start" id="Titulo_sintomas" style="margin-top: 30px; font-size: 1.0em;">
-                        <h1 class="display-4" style="margin-left: 15px;">Sintomas</h1>
+                    <div class="col-12 align-self-start" id="div_titulo_sintomas">
+                        <h1 class="display-4" id="titulo_sintomas">Sintomas</h1>
                     </div>
                     <div class="col-12 align-self-start" id="Corpo_sintomas" >
                         <p class="lead" style="margin-top: 30px; margin-left: 15px; font-size: 1.0em;">
@@ -36,7 +37,7 @@
                 </div>
                 <div class="row mb-5" id="cards">
                     <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
-                        <div class="card">
+                        <div class="card" id="card">
                             <img src="img/Febre.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                                 <p class="card-text" id="p_card">A febre é um dos primeiros sintomas da Covid-19, junto com tosse. Normalmente aparece durante 2 a 14 dias.</p>
@@ -44,23 +45,23 @@
                         </div>
                     </div>
                     <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
-                        <div class="card">
+                        <div class="card" id="card">
                             <img src="img/Tosse Seca.jpg" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
-                                <p class="card-text">A tosse vem acompanhada de febre geralmente. Esse sintoma pode se intensificar durante a manisfestação do vírus.</p>
+                                <p class="card-text" id="p_card">A tosse vem acompanhada de febre geralmente. Esse sintoma pode se intensificar durante a manisfestação do vírus.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
-                        <div class="card">
+                        <div class="card" id="card">
                             <img src="img/Fadiga.jpg" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
-                                <p class="card-text">Após a progressão da doença normalmente a fadiga começa a aparecer, podendo aumentar bastante em casos graves.</p>
+                                <p class="card-text" id="p_card">Após a progressão da doença normalmente a fadiga começa a aparecer, podendo aumentar bastante em casos graves.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
-                        <div class="card">
+                        <div class="card" id="card">
                             <img src="img/Falta de ar.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                                 <p class="card-text" id="p_card">A falta de ar é o sintoma mais conhecido da Covid-19. Ele estará muito presente em casos graves e moderados.</p>

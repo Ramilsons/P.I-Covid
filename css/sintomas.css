@@ -1,0 +1,52 @@
+/* Sintomas */
+
+#div_titulo_sintomas{
+    margin-top: 30px; font-size: 1.0em;
+}
+
+#titulo_sintomas{
+    margin-left: 15px;
+}
+
+  #cards{margin: 20px 0px 20px 0px !important;}
+   
+  #card_1{margin: 20px 0px 20px 0px !important;}
+  
+
+  #p_card{
+    margin-bottom: 40px !important; 
+    font-size: 0.8em;
+  }
+  #card{
+      background-color: #EE6161;
+  }
+  
+  #cards{
+    margin-bottom: -200px !important;
+  }
+
+  @media (max-width: 500px) {
+    .card-text{font-size: 0.7em !important;}
+    #card_1{margin: 20px 0px 20px 0px !important;}
+  }
+
+  @media (max-width: 420px) {
+    .card-text{font-size: 0.5em !important;}
+    #card_1{margin: 20px 0px 20px 0px !important;}
+  }
+  @media (max-width: 300px) {
+    .card-text{font-size: 0.4em !important;}
+    #card_1{margin: 20px 0px 20px 0px !important;}
+  }
+
+  #img_virus_sintomas{
+    margin: 100px 0px -110px 0px;
+  }
+
+  @media (max-width: 500px) {
+      #img_virus_sintomas{width: 45%; margin: 150px 0px -80px 0px;}
+  }
+
+  
+
+  
