@@ -1,3 +1,4 @@
+/* Geral Inicio */
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=DM+Sans:wght@400;500;700&display=swap');
 *{
     font-family: 'DM Sans', sans-serif;
@@ -12,6 +13,10 @@ body{
 header{
     font-weight: 200;
 }
+
+/* Geral Fim */
+
+/* Header Inicio */
 .text-dark{
     font-size: 18px !important;
 }
@@ -35,9 +40,10 @@ header{
         display: none !important;
     }
   }
+  /* Header Fim */
 
 
-
+/* Footer Inicio */
   #footer_menu{
       clear:right !important;
       margin-bottom: 170px;
@@ -72,4 +78,6 @@ header{
     color: #00ACEE !important; 
     font-size: 40px !important;
   }
+
+/* Footer Fim */
 
