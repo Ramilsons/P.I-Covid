@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 .atualizacoes{
     background-color: #F0F0F0;
     padding: 12px;
@@ -24,3 +26,135 @@
     background-color: #297A83; 
     color: #FFFFFF;
 }
+#div_dados{
+    background-color: #F0F0F0;
+    padding: 0px 70px 0px 70px !important;
+    margin-bottom: 100px !important;
+    /* display: none !important; */
+}
+#card_div{
+    margin: 40px auto 0px auto !important;
+}
+#card_conteudo{
+    width: 80% !important;
+    height: 75% !important;
+}
+#p_card_texto{
+    text-align: right !important;
+    font-family: 'Comfortaa', cursive !important;
+    font-size: 1.0em;
+    color: #767676;
+}
+#p_card_numero{
+    text-align: right !important;
+    font-weight: bold;
+    font-size: 1.7em;
+    margin: -15px 0px 0px 0px !important;
+}
+#img_card{
+    margin: -85px 10px 0px 0px !important;
+}
+
+#titulo_noticias{
+    margin: 0px 0px 100px 40px  !important;
+    font-family: 'Comfortaa', cursive !important;
+    font-size: 2.5em;
+    color: #297A83;
+}
+
+#div_noticias{
+    padding: 0px 50px 0px 50px !important ;
+}
+
+#link_home{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: 1.2em;
+    color: #000000 !important;
+}
+
+/* Ajustes responsivos */
+
+@media (max-width: 1200px) {
+    
+    #card_conteudo{
+        width: 90% !important;
+        height: 80% !important;
+    }
+
+    #p_card_texto{
+        font-size: 0.8em;
+    }
+    #p_card_numero{
+        font-size: 1.4em;
+    }
+
+    #img_card{
+        margin: -75px 10px 0px 0px !important;
+    }
+
+    #card_div{
+        margin: 40px 0px 30px 0px !important;
+    }
+
+    #saiba_mais{
+        font-size: 2.3em;
+    }
+
+    #subtitulo_cinza{
+        font-size: 2.8em;
+    }
+
+}
+
+@media (max-width: 1060px) {
+    
+    #div_dados{
+        padding-left: 25px !important;
+        padding-right: 15px !important;
+     }
+
+    #card_conteudo{
+        width: 100% !important;
+        height: 90% !important;
+    }
+
+    #p_card_texto{
+        font-size: 0.7em;
+    }
+    #p_card_numero{
+        font-size: 1.3em;
+    }
+
+    #img_card{
+        margin: -45px 0px 0px 0px !important;
+    }
+    #card_div{
+        margin: 40px 0px 30px 0px !important;
+    }
+  }
+
+@media (max-width: 800px) {
+    
+    #div_dados{
+       padding-left: 15px !important;
+       padding-right: 15px !important;
+    }
+    
+    #img_card{
+        margin: -45px 0px 0px 0px !important;
+    }
+    #card_div{
+        margin: 20px auto 20px auto !important;
+    }
+
+    #p_card_texto{
+        font-size: 0.6em;
+    }
+    #p_card_numero{
+        font-size: 1.1em;
+    }
+
+
+  }
+
+  
