@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
     <!-- Estilos de fonte adicionais -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="css/estilos.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <title>Sintomas</title>
 </head>
@@ -35,7 +35,7 @@
                     </div>
                 </div>
                 <div class="row mb-5" id="cards">
-                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-6 h-25" id="card_1">
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                         <div class="card">
                             <img src="img/Febre.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
@@ -43,7 +43,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-6 h-25" id="card_1">
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                         <div class="card">
                             <img src="img/Tosse Seca.jpg" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
@@ -51,7 +51,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-6 h-25" id="card_1">
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                         <div class="card">
                             <img src="img/Fadiga.jpg" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
@@ -59,7 +59,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-6 h-25" id="card_1">
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                         <div class="card">
                             <img src="img/Falta de ar.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
@@ -71,8 +71,8 @@
             </div>
         </article>
     </MAIN>
-    <div class="row align-self-start">
-        <!-- <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús"> -->
+    <div class="text-end">
+        <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
     </div>
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
