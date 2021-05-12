@@ -82,71 +82,47 @@
                     </div>
                 </div>
                 <div class="row me-5" id="div_noticias">
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2">
-                        <img src="img/logo.png" class="img-fluid" alt="" width="200" height="150">
+                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0">
+                        <img src="img/logo.png" class="img-fluid" alt="">
                     </div>
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4">
-                        <h5 class="">Como se prevenir</h5>
-                        <p class="">Uso de máscaras e higienização das mãos são os principais meios de prevenção.</p>
+                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-3">
+                        <h5 id="titulo_noticia">Como se prevenir</h5>
+                        <p id="subtitulo_noticia">Uso de máscaras e higienização das mãos são os principais meios de prevenção.</p>
                         <p id="data_home">21/03/2021</p>
                     </div>
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2">
-                        <img src="img/logo.png" class="img-fluid" alt="" width="200" height="150">
+                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0">
+                        <img src="img/logo.png" class="img-fluid" alt="">
                     </div>
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4">
-                        <h5 class="">Como se prevenir</h5>
-                        <p class="">Uso de máscaras e higienização das mãos são os principais meios de prevenção.</p>
+                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-3">
+                        <h5 id="titulo_noticia">Formas de contágio</h5>
+                        <p id="subtitulo_noticia">Pode se espalhar por meio de pequenas gotículas expelidas do nariz ou da boca.</p>
                         <p id="data_home">21/03/2021</p>
                     </div>
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-5">
-                        <img src="img/logo.png" class="img-fluid" alt="" width="200" height="150">
+                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0 mt-lg-5 mt-xl-5">
+                        <img src="img/logo.png" class="img-fluid" alt="">
                     </div>
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-5">
-                        <h5 class="">Como se prevenir</h5>
-                        <p class="">Uso de máscaras e higienização das mãos são os principais meios de prevenção.</p>
+                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-5 mt-lg-5 mt-xl-5">
+                        <h5 id="titulo_noticia">Quais os sintomas</h5>
+                        <p id="subtitulo_noticia">Febre, tosse e fadiga procure um médico.</p>
                         <p id="data_home">21/03/2021</p>
                     </div>
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-5">
-                        <img src="img/logo.png" class="img-fluid" alt="" width="200" height="150">
+                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-sm-0 mt-md-0 mt-lg-5 mt-xl-5">
+                        <img src="img/logo.png" class="img-fluid" alt="">
                     </div>
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-5">
-                        <h5 class="">Como se prevenir</h5>
-                        <p class="">Uso de máscaras e higienização das mãos são os principais meios de prevenção.</p>
+                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-5 mt-lg-5 mt-xl-5">
+                        <h5 id="titulo_noticia">Dúvidas Frequentes</h5>
+                        <p id="subtitulo_noticia">Como pega? Como tratar?</p>
                         <p id="data_home">21/03/2021</p>
                     </div>
                 </div>
                 <div class="text-end">
-                    <a id="link_home" href="">Ver tudo</a>
+                    <a id="link_home" class="stretched-link" href="">Ver tudo</a>
                 </div>
-                
+
             </div>
         </aside>
-        <section>
-            <section>
-                <img src="" alt="">
-                <h3>Cuidados</h3>
-            </section>
-            <section>
-                <img src="" alt="">
-                <h3>Estatistica</h3>
-            </section>
-            <section>
-                <img src="" alt="">
-                <h3>Cuidados</h3>
-            </section>
-            <section>
-                <img src="" alt="">
-                <h3>Cuidados</h3>
-            </section>
-            <section>
-                <img src="" alt="">
-                <h3>Cuidados</h3>
-            </section>
-            <section>
-                <img src="" alt="">
-                <h3>Cuidados</h3>
-            </section>
-        </section>
+       
+
     </MAIN>
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
