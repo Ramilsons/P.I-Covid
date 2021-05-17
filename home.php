@@ -11,7 +11,7 @@
     <!-- Estilos de fonte adicionais -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/home.css">
     <title>Home</title>
 </head>
@@ -20,10 +20,10 @@
     <!-- Header php -->
     <?php include "includes/header.php"; ?>
 
-    <MAIN>
+    <main>
         <article>
-            <div class="container mt-5">
-                <div class="row">
+            <div class="container">
+                <div class="row mt-5">
                     <div class="col-12 col-sm-12 col-md-12 col-lg-6">
                         <h1 class="display-4 text-left" id="titulo_cumprimento">Olá, boa tarde!</h1>
                         <img src="img/Covid_Home.png" class="img-fluid" alt="">
@@ -116,14 +116,55 @@
                     </div>
                 </div>
                 <div class="text-end">
-                    <a id="link_home" class="stretched-link" href="">Ver tudo</a>
+                    <a id="link_home" href="">Ver tudo</a>
                 </div>
 
             </div>
         </aside>
-       
 
-    </MAIN>
+        <div class="text-end" id="div_img_lateral">
+            <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús" width="200" height="200" id="img_virus_sintomas">
+        </div>
+        <div class="row mt-5 mb-3" id="div_linha_indice">
+
+            <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4" id="div_img">
+                <a href="vacinas.php" id="link_img_indice">
+                    <img src="img/vacina_home.png" class="img-fluid" alt="">
+                    <p id="prgfo_indice">Vacina Contra o COVID</p>
+                </a>
+            </div>
+            <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4" id="div_img">
+                <a href="fakenews.php" id="link_img_indice">
+                    <img src="img/Fake_home.png" class="img-fluid" alt="">
+                    <p id="prgfo_indice">Fake News</p>
+                </a>
+            </div>
+            <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4" id="div_img">
+                <a href="duvidas.php" id="link_img_indice">
+                    <img src="img/duvidas_home.png" class="img-fluid" alt="">
+                    <p id="prgfo_indice">Dúvidas Frequentes</p>
+                </a>
+            </div>
+            <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4" id="div_img">
+                <a href="fases_contencao.php" id="link_img_indice">
+                    <img src="img/Rectangle 493.png" class="img-fluid" alt="">
+                    <p id="prgfo_indice">Fases de Contenção</p>
+                </a>
+            </div>
+            <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4" id="div_img">
+                <a href="contato.php" id="link_img_indice">
+                    <img src="img/contato_home.png" class="img-fluid" alt="">
+                    <p id="prgfo_indice">Contato</p>
+                </a>
+            </div>
+            <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4" id="div_img">
+                <a href="estatisticas.php" id="link_img_indice">
+                    <img src="img/estatistica_home.png" class="img-fluid" alt="">
+                    <p id="prgfo_indice">Estatistisca</p>
+                </a>
+            </div>
+        </div>
+    </main>
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>

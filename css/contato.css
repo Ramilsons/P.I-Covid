@@ -1,0 +1,37 @@
+#div_icons{
+    padding: 50px 120px 50px 120px !important;
+}
+#link_whats{
+    color: #EE6161;
+}
+
+#img_virus_sintomas{
+    margin: -90px 0px -80px 0px;
+  }
+
+@media (max-width: 1060px) {
+    
+    #div_icons{
+        padding: 20px 60px 20px 60px !important;
+    }
+}
+
+
+
+
+@media (max-width: 800px) {
+    
+    #frase_contato{
+        font-size: 0.9em;
+    }
+    #img_virus_sintomas{width: 45%; margin: -40px 0px -80px 0px;}
+  }
+
+  
+@media (max-width: 300px) {
+    
+    #frase_contato{
+        font-size: 0.7em;
+    }
+  }
+  
