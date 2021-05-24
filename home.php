@@ -25,7 +25,18 @@
             <div class="container">
                 <div class="row mt-5">
                     <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                        <h1 class="display-4 text-left" id="titulo_cumprimento">Olá, boa tarde!</h1>
+                        <h1 class="display-4 text-left" id="titulo_cumprimento">
+                            <?php 
+                                $time = date('H');
+                                if($time > 8 && $time < 12){
+                                    echo "Olá, bom dia!";
+                                }else if($time > 12 && $time < 6){
+                                    echo "Olá, boa tarde!";
+                                }else{
+                                    echo "Olá, boa noite!";
+                                }
+                            ?>
+                        </h1>
                         <img src="img/Covid_Home.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-1  text-center">

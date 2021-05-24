@@ -21,7 +21,6 @@ header{
     font-size: 18px !important;
 }
 .text-dark:hover{
-    color: #297A83 !important;
     border-bottom: 1px solid #297A83;
 }
 #brand_esquerda{
@@ -30,6 +29,10 @@ header{
 
 .navbar-collapse.collapse.show{
     background-color: #ffffff;
+}
+
+.nav-item .nav-link.active{
+    color: #297A83 !important;
 }
 
 @media (max-width: 1199px) {
