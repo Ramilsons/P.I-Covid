@@ -1,5 +1,15 @@
+#imgbanner{
+z-index: 1;  
+}
 #div_icons{
-    padding: 50px 120px 50px 120px !important;
+    position: relative;
+    margin: -140px auto 60px auto; 
+    padding: 120px 0px 0px 0px !important;
+    background-color: #fff !important;
+    width: 85% !important;
+    height: 500px !important;
+    border: solid 1px #000000;
+    border-radius: 40px;
 }
 #link_whats{
     color: #EE6161;
@@ -9,15 +19,13 @@
     margin: -90px 0px -80px 0px;
   }
 
-@media (max-width: 1060px) {
-    
+  @media (max-width: 1200px) {
     #div_icons{
-        padding: 20px 60px 20px 60px !important;
-    }
+        margin: -90px auto 60px auto; 
+        height: 700px !important;
+        padding: 30px 0px 0px 0px !important;
+      }
 }
-
-
-
 
 @media (max-width: 800px) {
     
@@ -25,13 +33,22 @@
         font-size: 0.9em;
     }
     #img_virus_sintomas{width: 45%; margin: -40px 0px -80px 0px;}
+    
+  #div_icons{
+    margin: -90px auto 60px auto; 
+    height: 700px !important;
+    padding: 30px 0px 0px 0px !important;
   }
-
+  }
   
-@media (max-width: 300px) {
+
+@media (max-width: 380px) {
     
     #frase_contato{
         font-size: 0.7em;
     }
+    #div_icons{
+        margin: -60px auto 60px auto; 
+      }
   }
   

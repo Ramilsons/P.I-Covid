@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+h1,h3{
+    font-family: 'Comfortaa', cursive !important;
+}
+
+#div_dados{
+    background-color: #EE6161;
+    text-align: center;
+}
+.titulo_principal{
+    margin: 100px 0px 300px 0px;
+}
+#imgs_estastiscas{
+    padding: 0px 50px 0px 100px !important;
+}
+
+#imgs_grafico{
+    text-align: center !important;
+}
+
+#div_grafico{
+    margin-top: 100px !important;
+    margin-bottom: 20px !important;
+}
+
+#fonte_grafico{
+    font-size: 2.5em !important;
+    margin-top: 40px !important;
+    margin-right: 30px !important;
+}
+
+#fonte_grafico2{
+    font-size: 2.5em !important;
+    margin: 50px 30px 0px 120px !important;
+}
+
+#div_estatisca{
+    margin-bottom: 70px !important;
+}
+
+#div_estatisca4{
+    margin: 100px 0px 70px 0px !important;
+}
+
+#img_virus_sintomas{
+    margin: -200px 0px -110px 0px;
+  }
+
+@media (max-width: 1200px) {
+    
+    #imgs_estastiscas{
+        padding: 0px 50px 0px 50px !important;
+    }
+
+}
+
+@media (max-width: 1060px){
+    #fonte_grafico{
+        font-size: 2.0em !important;
+        margin: 40px !important;
+    } 
+    #fonte_grafico2{
+        font-size: 2.0em !important;
+        margin-top: 40px !important;
+        margin-left: 60px !important;
+    }
+
+    #imgs_grafico{
+        padding: 30px !important;
+    }
+}
+
+@media (max-width: 800px) {
+    
+    
+    #fonte_grafico{
+        font-size: 1.7em !important;
+    }
+    #fonte_grafico2{
+        font-size: 1.7em !important;
+        margin-left: 40px !important;
+    }
+  }
+
+
+@media (max-width: 600px) {
+    
+    #imgs_estastiscas{
+        padding: 0px 30px 0px 30px !important;
+    }
+    #fonte_grafico{
+        font-size: 1.1em !important;
+        margin: 40px;
+    }
+    #fonte_grafico2{
+        font-size: 1.1em !important;
+        margin: 40px;
+    }
+    
+    #div_estatisca{
+        margin-bottom: 40px !important;
+    }
+
+    #img_virus_sintomas{width: 45%; margin: -120 0px 0px 0px !important;}
+  }
+
+  

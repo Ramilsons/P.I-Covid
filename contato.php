@@ -21,19 +21,13 @@
     <?php include "includes/header.php"; ?>
     <main>
         <article>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <img src="" class="img-fluid" alt="">
-                    </div>
-                </div>
-            </div>
+            <img src="img/banner_contato.png" class="img-fluid" id="imgbanner"alt="">
             <div class="row" id="div_icons">
-                <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3 text-center">
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-4 mt-3 text-center">
                     <img src="img/mail_contato.png" class="img-fluid" alt="">
                     <h5 id="frase_contato">sistemas@fatecsaoroque.sp.gov.br</h5>
                 </div>
-                <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3 text-center">
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-4 mt-3 text-center">
                     <img src="img/celular_contato.png" class="img-fluid mt-xl-1 mt-lg-1" alt="">
                     <h5 class="mt-3" id="frase_contato">(11)91111-1111</h5>
                     <a href="" id="link_whats">Envie uma mensagem no Whatsapp</a>
@@ -43,7 +37,6 @@
                     <h5 class="mt-3" id="frase_contato">Rua Marechal Deodoro da Fonseca, 132 - Centro | CEP 18130-070 – São Roque/SP</h5>
                 </div>
             </div>
-
         </article>
         <div class="text-end">
             <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
