@@ -34,6 +34,8 @@
 }
 #card_div{
     margin: 40px auto 0px auto !important;
+    display: flex;
+    justify-content:center;
 }
 #card_conteudo{
     width: 80% !important;
@@ -147,7 +149,7 @@
     }
 
     #subtitulo_cinza{
-        font-size: 2.8em;
+        font-size: 1.5em;
     }
 
 }

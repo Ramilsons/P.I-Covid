@@ -3,21 +3,29 @@ z-index: 1;
 }
 #div_icons{
     position: relative;
-    margin: -140px auto 60px auto; 
+    margin: -140px auto 0px auto; 
     padding: 120px 0px 0px 0px !important;
     background-color: #fff !important;
     width: 85% !important;
     height: 500px !important;
-    border: solid 1px #000000;
-    border-radius: 40px;
+    box-shadow: 1px 0px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    justify-content:space-between ;
+  
 }
+
+#div_icons h5{
+    color: #B4ABAB;
+    font-weight: 200;
+}
+
 #link_whats{
     color: #EE6161;
 }
 
 #img_virus_sintomas{
     margin: -90px 0px -80px 0px;
-  }
+}
 
   @media (max-width: 1200px) {
     #div_icons{
