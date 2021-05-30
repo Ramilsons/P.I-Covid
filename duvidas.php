@@ -22,7 +22,7 @@
     <MAIN>
         <article>
             <h1 class="titulo_pricipal">Dúvidas Frequentes</h1>
-            <div class="container">
+            <div class="container" id="indice_1">
                 <section>
                     <div class="row mt-lg-5 mt-sm-5 mt-md-5" id="div_row_duvidas">
                         <div class="col-sm-12 col-md-12 col-lg-5 mb-3 mb-sm-3 mb-md-3 ms-lg-5 me-lg-5" id="div-amarela">
@@ -66,7 +66,9 @@
                     https://www.saopaulo.sp.gov.br/spnoticias/perguntas-e-respostas-tire-suas-duvidas-sobre-coronavirus/.Acesso em:05 de maio de 2021.</p>
             </div>
         </div>
-
+        <div class="text-end" id="indice_2">
+            <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+        </div>
     </aside>
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>

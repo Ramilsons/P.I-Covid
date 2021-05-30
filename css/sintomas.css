@@ -25,6 +25,11 @@
     margin-bottom: -200px !important;
   }
 
+  #img_virus_sintomas{
+    margin: 100px 0px -110px 0px;
+  }
+
+
   @media (max-width: 500px) {
     .card-text{font-size: 0.7em !important;}
     #card_1{margin: 20px 0px 20px 0px !important;}
@@ -37,10 +42,6 @@
   @media (max-width: 300px) {
     .card-text{font-size: 0.4em !important;}
     #card_1{margin: 20px 0px 20px 0px !important;}
-  }
-
-  #img_virus_sintomas{
-    margin: 100px 0px -110px 0px;
   }
 
   @media (max-width: 500px) {
