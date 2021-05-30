@@ -38,8 +38,8 @@
                 </div>
             </section>
             <section>
-                <div class="row" id="div_grafico">
-                    <div class="col-12 mb-3" id="div_estatisca">
+                <div class="container" id="div_grafico">
+                    <div class="row mb-3" id="div_estatisca">
                         <div class="col-6 float-start" id="imgs_grafico">
                             <img src="img/grafico_1.png" class="img-fluid" alt="">
                         </div>
@@ -47,7 +47,7 @@
                             <h3 id="fonte_grafico">Casos de COVID-19 por data de notificação</h3>
                         </div>
                     </div>
-                    <div class="col-12" id="div_estatisca">
+                    <div class="row" id="div_estatisca">
                         <div class="col-6 float-start">
                             <h3 id="fonte_grafico2">Casos acumulados de COVID-19 por data de notificação</h3>
                         </div>
@@ -55,7 +55,7 @@
                             <img src="img/grafico_2.png" class="img-fluid" alt="">
                         </div>
                     </div>
-                    <div class="col-12" id="div_estatisca">
+                    <div class="row" id="div_estatisca">
                         <div class="col-6 float-start" id="imgs_grafico">
                             <img src="img/grafico_3.png" class="img-fluid" alt="">
                         </div>

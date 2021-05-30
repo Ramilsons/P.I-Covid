@@ -98,7 +98,21 @@ h1,h3{
         margin-bottom: 40px !important;
     }
 
-    #img_virus_sintomas{width: 45%; margin: -120 0px 0px 0px !important;}
+    #img_virus_sintomas{width: 45%; margin: -120px 0px -75px 0px !important;}
+  }
+
+  @media (max-width: 400px) {
+    
+    
+    #fonte_grafico{
+        font-size: 0.9em !important;
+        margin: 40px;
+    }
+    #fonte_grafico2{
+        font-size: 0.9em !important;
+        margin: 40px;
+    }
+    #img_virus_sintomas{width: 45%; margin: -120px 0px -60px 0px !important;}
   }
 
   

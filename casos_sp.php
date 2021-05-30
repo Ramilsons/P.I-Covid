@@ -22,46 +22,40 @@
     <MAIN>
         <article>
             <div class="row" id="div_dados">
-                <h1 class="titulo_principal">Estatística COVID-19 no Brasil</h1>
+                <h1 class="titulo_principal">Estatística COVID-19 no estado de São Paulo</h1>
+            </div>
+            <div class="row mt-5" id="imgs_estastiscas">
+                <img src="img/casos_banner.png" class="img-fluid" alt="">
             </div>
             <section>
-                <div class="row mt-5 mb-5" id="imgs_estastiscas">
-                    <div class="col-4">
-                        <img src="img/estatisca_1.png" class="img-fluid" alt="">
+
+                <div class="row" id="div_estatisca">
+                    <div class="col-6 float-start">
+                        <h3 id="fonte_grafico2">Casos acumulados de COVID-19 por data de notificação</h3>
                     </div>
-                    <div class="col-4">
-                        <img src="img/estatisca_2.png" class="img-fluid" alt="">
-                    </div>
-                    <div class="col-4">
-                        <img src="img/estatisca_3.png" class="img-fluid" alt="">
+                    <div class="col-6 float-end" id="imgs_grafico">
+                        <img src="img/grafico_4.png" class="img-fluid" alt="">
                     </div>
                 </div>
-            </section>
-            <section>
-                <div class="row" id="div_grafico">
-                <div class="col-12" id="div_estatisca">
-                        <div class="col-6 float-start">
-                            <h3 id="fonte_grafico2">Casos acumulados de COVID-19 por data de notificação</h3>
-                        </div>
-                        <div class="col-6 float-end" id="imgs_grafico">
-                            <img src="img/grafico_4.png" class="img-fluid" alt="">
-                        </div>
+                <div class="row mb-3" id="div_estatisca">
+                    <div class="col-6 float-start" id="imgs_grafico">
+                        <img src="img/grafico_5.png" class="img-fluid" alt="">
                     </div>
-                    <div class="col-12 mb-3" id="div_estatisca">
-                        <div class="col-6 float-start" id="imgs_grafico">
-                            <img src="img/grafico_5.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="col-6 float-end">
-                            <h3 id="fonte_grafico">Casos de COVID-19 por data de notificação</h3>
-                        </div>
+                    <div class="col-6 float-end">
+                        <h3 id="fonte_grafico">Casos de COVID-19 por data de notificação</h3>
                     </div>
-                    <div class="col-12" id="div_estatisca">
-                        <div class="col-6 float-start">
-                            <h3 id="fonte_grafico2">Casos acumulados de COVID-19 por data de notificação</h3>
-                        </div>
-                        <div class="col-6 float-end" id="imgs_grafico">
-                            <img src="img/grafico_6.png" class="img-fluid" alt="">
-                        </div>
+                </div>
+                <div class="row" id="div_estatisca">
+                    <div class="col-6 float-start">
+                        <h3 id="fonte_grafico2">Casos acumulados de COVID-19 por data de notificação</h3>
+                    </div>
+                    <div class="col-6 float-end" id="imgs_grafico">
+                        <img src="img/grafico_6.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="text-end">
+                        <img src="img/virus 2.png" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
                     </div>
                     <div class="col-12" id="div_estatisca4">
                         <div class="col-6 float-start" id="imgs_grafico">
@@ -72,23 +66,22 @@
                         </div>
                     </div>
                 </div>
-            </section>
-            <section>
-                <div class="text-end">
-                    <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
-                </div>
+
             </section>
         </article>
     </MAIN>
     <aside>
-        <p>
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-            galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining It is a long established fact that a reader will be
-            distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is
-            that it has a more-or-less normal distribution of letters, as opposed to using .
-        </p>
+        <div class="row" id="div_final_casos">
+            <p class="p1">
+                A subnotificação dos casos e a fila de exames podem impedir que a curva traduza de forma precisa o avanço da doença.
+            </p>
+            <p class="p2">
+                Referência Bibliográfica
+                BOLETIM COMPLETO. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/.Acesso em: 05 maio 2021.
+            </p>
+        </div>
     </aside>
+
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>
