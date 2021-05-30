@@ -10,6 +10,7 @@
     <!-- Estilos de fonte adicionais -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="css/quemsomos.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <title>Quem Somos</title>
 </head>
@@ -20,37 +21,62 @@
 
     <MAIN>
         <article>
+            <h1 class="titulo_principal">Quem Somos</h1>
             <section>
-                <img src="" alt="">
-                <h1>Quem Somos?</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint aliquam aperiam neque voluptatum alias,
-                    id qui illo corrupti ut accusantium deleniti consequatur tempore, dolores in molestiae ex quibusdam
-                    autem iure.</p>
-                <img src="" alt="">
+                <div class="container mt-5 mb-5">
+                    <div class="row text-center" id="linha1">
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-4">
+                            <img src="img/luana_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
+                            <p class="nome">Luana Aparecida Pedroso de Oliveira</p>
+                            <p class="paragrafo_1">RA:2650832023033</p>
+                            <p class="paragrafo_1">Mini Biografia: Meu nome é Luana, tenho 28 anos, sou técnica em contabilidade, estou conhecendo a area de tecnologia e gostando muito.</p>
+                            <p class="paragrafo_1">Função: Imagens e Grá.ficos.</p>
+                            <a class="link_pagina" href="fases_contencao.php">Link: Fases de Contenção</a>
+                        </div>
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-4">
+                            <img src="img/rafael_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
+                            <p class="nome">Rafael dos Santos</p>
+                            <p class="paragrafo_1">RA: 2650832013016</p>
+                            <p class="paragrafo_1">Mini Biografia: Olá me chamo Rafael tenho 30 anos sou formado em técnico
+                                em química indústrial e elétrica industrial .
+                                agora estou migrando de área cursando sistemas para internet na FATEC-SR , no momento em busca de estágio.</p>
+                            <p class="paragrafo_1">Função: Coder</p>
+                            <a class="link_pagina" href="formas_contagio.php">Link: Formas de contagio</a>
+                        </div>
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-4">
+                            <img src="img/ramilson_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
+                            <p class="nome">Ramilson Felix da Silva</p>
+                            <p class="paragrafo_1">RA: 2650832023016</p>
+                            <p class="paragrafo_1">Mini Biografia:Tive o primeiro contato com a programação em um curso técnico em 2017, agora estou cursando S.I na FATEC São Roque e estagiando na ROCKY.</p>
+                            <p class="paragrafo_1">Função: Designer</p>
+                            <a class="link_pagina" href="prevencao.php">Link: Prevenção</a>
+                        </div>
+                    </div>
+                    <div class="row mt-lg-5 text-center" id="linha2">
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-6">
+                            <img src="img/tatiana_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
+                            <p>Tatiana Nakata Mishima</p>
+                            <p>RA: 2650832023019</p>
+                            <p>Mini Biografia: Estudante do curso de Sistemas pela Internet na FATEC São Roque, Bacharel em Enfermagem pela F.C.M. Santa Casa de S. P., aumentando meu conhecimento na área de tecnologia e apreciando a experiência.</p>
+                            <p>Função: Gerente,Textos e Logo</p>
+                            <a class="link_pagina" href="vacinas.php">Link: Vacina Contra COVID-19</a>
+                        </div>
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-6">
+                            <img src="img/vitor_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
+                            <p>Vitor Hugo Teixeira Oliveira </p>
+                            <p>RA: 260832023028</p>
+                            <p>Mini Biografia:Meu nome é Vitor Hugo, tenho 21 anos. Sempre gostei de tecnologia e há dois anos me encantei pela área de programação, agora busco criar sistemas que facilitem a vida das pessoas.</p>
+                            <p>Função: Coder</p>
+                            <a class="link_pagina" href="sintomas.php">Link: Sintomas</a>
+                        </div>
+                    </div>
+                </div>
             </section>
-            <img src="">
-            <p> non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-                in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum
-                dolore </p>
-
-
-            <img src="">
-            <p> non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-                in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident</p>
-
-
-            <img src="">
-
-            <p> non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-                in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident </p>
-
         </article>
     </MAIN>
+    <!-- <div class="text-end">
+        <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+    </div> -->
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>
