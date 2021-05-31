@@ -38,7 +38,7 @@
                         </li>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark text-nowrap mt-1 fw-bolder <?php echo ($pagina_atual == '/covid_ProjetoIntegrador/estatisticas.php')? 'active' : '' ?>" href="estatisticas.php">Estatisticas</a>
+                            <a class="nav-link text-dark text-nowrap mt-1 fw-bolder <?php echo ($pagina_atual == '/covid_ProjetoIntegrador/estatisticas.php')? 'active' : '' ?>" href="estatisticas.php">Estatísticas</a>
                         </li>
                         </li>
                         <li class="nav-item">

@@ -24,7 +24,7 @@
                                     <a class="nav-link" id="link_menu_footer" aria-current="page" href="fases_contencao.php">Fases de Contenção</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="estatisticas.php">Estatisca</a>
+                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="estatisticas.php">Estatística</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
                                     <a class="nav-link" id="link_menu_footer" aria-current="page" href="casos_sp.php">Casos em São Paulo</a>
