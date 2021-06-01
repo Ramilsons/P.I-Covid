@@ -21,7 +21,7 @@ header{
     font-size: 18px !important;
 }
 .text-dark:hover{
-    border-bottom: 1px solid #297A83;
+    text-decoration: underline #297A83;
 }
 #brand_esquerda{
     display: none;
