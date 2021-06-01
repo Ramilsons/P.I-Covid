@@ -62,12 +62,11 @@
         <div class="container">
             <div class="row" id="div_final_duvidas">
                 <p class="p1">Referência Bibliográfica
-                    Perguntas e respostas: tire suas dúvidas sobre o novo coronavírus.Do Portal do Governo, 2021.Disponível em:
-                    https://www.saopaulo.sp.gov.br/spnoticias/perguntas-e-respostas-tire-suas-duvidas-sobre-coronavirus/.Acesso em:05 de maio de 2021.</p>
+                    Perguntas e respostas: tire suas dúvidas sobre o novo coronavírus.Do Portal do Governo, 2021.Disponível em: <a href="https://www.saopaulo.sp.gov.br/spnoticias/perguntas-e-respostas-tire-suas-duvidas-sobre-coronavirus/.Acesso">Acesse a Referência</a> em:05 de maio de 2021.</p>
             </div>
         </div>
         <div class="text-end" id="indice_2">
-            <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+            <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
         </div>
     </aside>
     <!-- Footer php -->

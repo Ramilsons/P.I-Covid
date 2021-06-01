@@ -11,6 +11,7 @@
     <!-- Estilos de fonte adicionais -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="css/fakenews.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <title>Fake-News</title>
 </head>

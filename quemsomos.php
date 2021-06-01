@@ -74,9 +74,9 @@
             </section>
         </article>
     </MAIN>
-    <!-- <div class="text-end">
+    <div class="text-end">
         <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
-    </div> -->
+    </div>
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>

@@ -46,7 +46,7 @@
                     </div>
                     <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                         <div class="card" id="card">
-                            <img src="img/Tosse Seca.jpg" class="card-img-top img-fluid" alt="...">
+                            <img src="img/Tosse Seca.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                                 <p class="card-text" id="p_card">A tosse vem acompanhada de febre geralmente. Esse sintoma pode se intensificar durante a manisfestação do vírus.</p>
                             </div>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                         <div class="card" id="card">
-                            <img src="img/Fadiga.jpg" class="card-img-top img-fluid" alt="...">
+                            <img src="img/Fadiga.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                                 <p class="card-text" id="p_card">Após a progressão da doença normalmente a fadiga começa a aparecer, podendo aumentar bastante em casos graves.</p>
                             </div>
@@ -73,7 +73,7 @@
         </article>
     </MAIN>
     <div class="text-end">
-        <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+        <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
     </div>
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
