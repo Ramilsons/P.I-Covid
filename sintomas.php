@@ -48,7 +48,7 @@
                         <div class="card" id="card">
                             <img src="img/Tosse Seca.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
-                                <p class="card-text" id="p_card">A tosse vem acompanhada de febre geralmente. Esse sintoma pode se intensificar durante a manisfestação do vírus.</p>
+                                <p class="card-text" id="p_card">A tosse vem acompanhada de febre geralmente. Esse sintoma pode se agravar ao longo da doença, causando desconforto.</p>
                             </div>
                         </div>
                     </div>
@@ -64,7 +64,7 @@
                         <div class="card" id="card">
                             <img src="img/Falta de ar.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
-                                <p class="card-text" id="p_card">A falta de ar é o sintoma mais conhecido da Covid-19. Ele estará muito presente em casos graves e moderados.</p>
+                                <p class="card-text" id="p_card">A falta de ar é o sintoma mais conhecido da Covid-19. Ele estará muito presente em casos graves e moderados.  </p>
                             </div>
                         </div>
                     </div>
