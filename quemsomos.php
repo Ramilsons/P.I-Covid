@@ -55,18 +55,18 @@
                     <div class="row mt-lg-5 text-center" id="linha2">
                         <div class="col-12 col-sm-12 col-md-12 col-lg-6">
                             <img src="img/tatiana_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
-                            <p>Tatiana Nakata Mishima</p>
-                            <p>RA: 2650832023019</p>
-                            <p>Mini Biografia: Estudante do curso de Sistemas pela Internet na FATEC São Roque, Bacharel em Enfermagem pela F.C.M. Santa Casa de S. P., aumentando meu conhecimento na área de tecnologia e apreciando a experiência.</p>
-                            <p>Função: Gerente,Textos e Logo</p>
+                            <p class="nome">Tatiana Nakata Mishima</p>
+                            <p class="paragrafo_1">RA: 2650832023019</p>
+                            <p class="paragrafo_1">Mini Biografia: Estudante do curso de Sistemas pela Internet na FATEC São Roque, Bacharel em Enfermagem pela F.C.M. Santa Casa de S. P., aumentando meu conhecimento na área de tecnologia e apreciando a experiência.</p>
+                            <p class="paragrafo_1">Função: Gerente,Textos e Logo</p>
                             <a class="link_pagina" href="vacinas.php">Link: Vacina Contra COVID-19</a>
                         </div>
                         <div class="col-12 col-sm-12 col-md-12 col-lg-6">
                             <img src="img/vitor_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
-                            <p>Vitor Hugo Teixeira Oliveira </p>
-                            <p>RA: 260832023028</p>
-                            <p>Mini Biografia:Meu nome é Vitor Hugo, tenho 21 anos. Sempre gostei de tecnologia e há dois anos me encantei pela área de programação, agora busco criar sistemas que facilitem a vida das pessoas.</p>
-                            <p>Função: Coder</p>
+                            <p class="nome">Vitor Hugo Teixeira Oliveira </p>
+                            <p class="paragrafo_1">RA: 260832023028</p>
+                            <p class="paragrafo_1">Mini Biografia:Meu nome é Vitor Hugo, tenho 21 anos. Sempre gostei de tecnologia e há dois anos me encantei pela área de programação, agora busco criar sistemas que facilitem a vida das pessoas.</p>
+                            <p class="paragrafo_1">Função: Coder</p>
                             <a class="link_pagina" href="sintomas.php">Link: Sintomas</a>
                         </div>
                     </div>

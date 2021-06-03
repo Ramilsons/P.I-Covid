@@ -21,64 +21,100 @@
     <?php include "includes/header.php"; ?>
     <MAIN>
         <article>
-            <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1>
-            <img src="" alt="">
+            <header>
+                <div class="container">
+                    <div class="row text-center">
+                        <h1 class="titulo_principal">Fake News</h1>
+                    </div>
+                    <div class="row text-center mt-3 mb-5">
+                        <img src="img/fakenews_banner.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+            </header>
 
+            <section>
+                <div class="container">
+                    <section>
+                        <div class="row">
+                            <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start">
+                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                </div>
+                                <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
+                                    <h5 class="paragrafo"> É falso que o governo do estado de são Paulo irá cortar o fornecimento de Luz entre 0hs e 6hs.</h5>
+                                </div>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start">
+                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                </div>
+                                <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
+                                    <h5 class="paragrafo"> É falsa a mensagem com novo cronograma de vacinação que circula no Whatsapp.</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="row mt-lg-5">
+                            <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start">
+                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                </div>
+                                <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
+                                    <h5 class="paragrafo"> É falso que o governo do estado de São Paulo irá prender quem não seguir o toque de restrição.</h5>
+                                </div>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start">
+                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                </div>
+                                <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
+                                    <h5 class="paragrafo"> É falso que o site <a href="https://VACINALA.SP.GOV.BR/">Vacinala</a> é utilizado para aplicar golpes.Ele reúne pré-cadastro, locais de vacinação e outras informações relevantes.</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="row mt-lg-5">
+                            <div class="col-12 col-sm-12 col-md-6 col-lg-6 me-md-2">
+                                <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start" style="margin-top: -10px;">
+                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                </div>
+                                <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
+                                    <h5 class="paragrafo">É falso que respiradores encontrados pela PM pertenciam a hospital do Estado de São Paulo.</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+
+            <section>
+                <div class="text-end">
+                    <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+                </div>
+            </section>
             
-            <section>
-                <img src="">
-                <h3>Titulo Exemplo</h3>
-                <h5> sunt in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum
-                    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                    officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur. Excepteur sint </h5>
-            </section>
-            <section>
-                <img src="">
-                <h3>Titulo Exemplo</h3>
-                <h5>sunt in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum
-                    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                    officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur. Excepteur sint </h5>
-            </section>
-            <section>
-                <img src="">
-                <h3>Titulo Exemplo</h3>
-                <h5>sunt in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum
-                    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                    officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur. Excepteur sint </h5>
-            </section>
-            <section>
-                <img src="">
-                <h3>Titulo Exemplo</h3>
-                <h5>sunt in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum
-                    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                    officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur. Excepteur sint </h5>
-            </section>
-            <section>
-                <img src="">
-                <h3>Titulo Exemplo</h3>
-                <h5>sunt in culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum
-                    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                    officia deserunt mollit anim id est laborum.n reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur. Excepteur sint </h5>
-            </section>
-            <section>
-                <img src="">
-                <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
-            </section>
+            <footer>
+                <section>
+                    <div class="container" id="footer_article">
+                        <div class="row">
+                            <div class="col-12 col-sm-12 col-md-6 col-lg-6" id="div_paragrafo">
+                                <h4 class="mt-2 mt-sm-2 mt-md-4 mt-lg-4" id="paragrafo_footer">Não seja vítima do fake news, estude a fonte da informação, pesquise, antes de acreditar ou repassar uma informação.</h4>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                                <img src="img/fakenews_banner_footer.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                        <div class="row mt-5 text-left">
+                            <h5 class="paragrafo">Referência Bibliográfica
+                                SEM FAKE NEWS.Do Portal do Governo, 2021.Disponível em:
+                                <a href="https://www.saopaulo.sp.gov.br/coronavirus/sem-fake-news/.Acesso">Sem Fake News</a> em 05 de maio de 2021.
+                            </h5>
+                        </div>
+                    </div>
+                </section>
+            </footer>
         </article>
     </MAIN>
     <!-- Footer php -->
