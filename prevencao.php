@@ -28,7 +28,7 @@
                     <h3>Lave as mãos constantemente com água e sabão ou álcool em gel</h3>
                 </section>
                 <section class="col-sm-12 col-lg-5 topico" alt="Dois bonecos e uma seta abaixo indicando distanciamento">
-                    <h3>Mantenha uma distância de 2 metros de pessoas</h3>
+                    <h3>Mantenha uma distância mínima de 1 metro de outras pessoas</h3>
                     <img src="./img/icon2.png">
                 </section>
                 <section class="col-sm-12 col-lg-5 topico">
