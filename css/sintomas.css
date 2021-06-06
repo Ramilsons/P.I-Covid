@@ -28,7 +28,13 @@
   #img_virus_sintomas{
     margin: 100px 0px -110px 0px;
   }
-
+  .p1{
+    margin: 0rem auto 1rem auto;
+    font-family: 'Comfortaa', cursive !important;
+    text-align: left;
+    font-size: 1.1em;
+    padding: 20px;
+}
 
   @media (max-width: 500px) {
     .card-text{font-size: 0.7em !important;}

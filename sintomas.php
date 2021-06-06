@@ -27,7 +27,7 @@
                     <div class="col-12 align-self-start" id="div_titulo_sintomas">
                         <h1 class="display-4" id="titulo_sintomas">Sintomas</h1>
                     </div>
-                    <div class="col-12 align-self-start" id="Corpo_sintomas" >
+                    <div class="col-12 align-self-start" id="Corpo_sintomas">
                         <p class="lead" style="margin-top: 30px; margin-left: 15px; font-size: 1.0em;">
                             O número de infectados em nosso país cresce cada vez mais. Devido a isso devemos salientar os primeiros sintomas que são apresentados quando contraimos o virus, já que eles podem ser facilmente confundidos com os sintomas de outras doenças.
                             O periodo de incubação do virús é de 2 a 14 dias, esse é o tempo que demora para os sintomas aparecerem.
@@ -36,47 +36,57 @@
                     </div>
                 </div>
                 <section>
-                <div class="row mb-5" id="cards">
-                    <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
-                        <div class="card" id="card">
-                            <img src="img/Febre.png" class="card-img-top img-fluid" alt="...">
-                            <div class="card-body">
-                                <p class="card-text" id="p_card">A febre é um dos primeiros sintomas da Covid-19, junto com tosse. Normalmente aparece durante 2 a 14 dias.</p>
+                    <div class="row mb-5" id="cards">
+                        <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
+                            <div class="card" id="card">
+                                <img src="img/Febre.png" class="card-img-top img-fluid" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text" id="p_card">A febre é um dos primeiros sintomas da Covid-19, junto com tosse. Normalmente aparece durante 2 a 14 dias.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
+                            <div class="card" id="card">
+                                <img src="img/Tosse Seca.png" class="card-img-top img-fluid" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text" id="p_card">A tosse vem acompanhada de febre geralmente. Esse sintoma pode se agravar ao longo da doença, causando desconforto.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
+                            <div class="card" id="card">
+                                <img src="img/Fadiga.png" class="card-img-top img-fluid" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text" id="p_card">Após a progressão da doença normalmente a fadiga começa a aparecer, podendo aumentar bastante em casos graves.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
+                            <div class="card" id="card">
+                                <img src="img/Falta de ar.png" class="card-img-top img-fluid" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text" id="p_card">A falta de ar é o sintoma mais conhecido da Covid-19. Ele estará muito presente em casos graves e moderados. </p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
-                        <div class="card" id="card">
-                            <img src="img/Tosse Seca.png" class="card-img-top img-fluid" alt="...">
-                            <div class="card-body">
-                                <p class="card-text" id="p_card">A tosse vem acompanhada de febre geralmente. Esse sintoma pode se agravar ao longo da doença, causando desconforto.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
-                        <div class="card" id="card">
-                            <img src="img/Fadiga.png" class="card-img-top img-fluid" alt="...">
-                            <div class="card-body">
-                                <p class="card-text" id="p_card">Após a progressão da doença normalmente a fadiga começa a aparecer, podendo aumentar bastante em casos graves.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
-                        <div class="card" id="card">
-                            <img src="img/Falta de ar.png" class="card-img-top img-fluid" alt="...">
-                            <div class="card-body">
-                                <p class="card-text" id="p_card">A falta de ar é o sintoma mais conhecido da Covid-19. Ele estará muito presente em casos graves e moderados.  </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 </section>
             </div>
         </article>
     </MAIN>
-    <div class="text-end">
-        <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
-    </div>
+    <section>
+        <div class="text-end">
+            <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+        </div>
+    </section>
+    <aside>
+        <div class="container">
+            <div class="row">
+                <p class="p1">Referência Bibliográfica
+                    Sintomas da COVID-19. Dísponivel no site UOL, 2021. Para mais informações acesse <a href="https://www.uol.com.br/vivabem/noticias/redacao/2021/02/04/saiba-quais-sao-os-principais-sintomas-da-covid-19.htm?next=0001H867U11N">Uol</a></p>
+            </div>
+        </div>
+    </aside>
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>
