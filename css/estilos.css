@@ -14,6 +14,10 @@ header{
     font-weight: 200;
 }
 
+.nav-link.disabled{
+    color: #297A83 !important;
+}
+
 /* Geral Fim */
 
 /* Header Inicio */
@@ -29,10 +33,6 @@ header{
 
 .navbar-collapse.collapse.show{
     background-color: #ffffff;
-}
-
-.nav-item .nav-link.active{
-    color: #297A83 !important;
 }
 
 @media (max-width: 1199px) {

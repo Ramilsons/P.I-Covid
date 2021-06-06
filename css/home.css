@@ -64,8 +64,21 @@
     color: #297A83;
 }
 
+#titulo_noticia:hover{
+    text-decoration: underline;
+}
+
 #div_noticias{
     padding: 0px 50px 0px 50px !important ;
+}
+
+#div_noticias a{
+    text-decoration: none;
+}
+
+#div_noticias img{
+    height: 60%;
+    object-fit: cover;
 }
 
 #link_home{

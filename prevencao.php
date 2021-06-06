@@ -40,6 +40,10 @@
                     <img src="./img/icon4.png">
                 </section>
             </div>
+            <div class="row">
+                <p class="p1">Referência Bibliográfica
+                    Como se proteger?. Do Portal do Governo Federal, 2021.Disponível em: <a target="_blank" href="https://www.gov.br/saude/pt-br/coronavirus/como-se-proteger">Acesse a Referência</a> Acesso em: 05 de maio de 2021.</p>
+            </div>
         </article>
     </main>
     <!-- Footer php -->

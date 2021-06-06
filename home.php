@@ -42,7 +42,7 @@
                     <div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-1  text-center">
                         <h1 class="display-6 col-sm-12" id="saiba_mais">Saiba tudo sobre o COVID-19</h1>
                         <h1 class="display-6 col-sm-12" id="subtitulo_cinza">Como se prevenir, sintomas, estatísticas, vacina e muito mais.</h2>
-                            <a class="btn btn-primary btn-lg col-12" id="botao_verde" href="#" role="button">Ver tópicos</a>
+                            <a href="#div_linha_indice" class="btn btn-primary btn-lg col-12" id="botao_verde" href="#" role="button">Ver tópicos</a>
                     </div>
                 </div>
             </div>
@@ -51,8 +51,8 @@
                     <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
                         <div class="card" id="card_conteudo">
                             <div class="card-body">
-                                <p class="card-text" id="p_card_texto">Óbitos</p>
-                                <p class="card-text" id="p_card_numero">400.000</p>
+                                <p class="card-text" id="p_card_texto">Casos(Brasil)</p>
+                                <p class="card-text" id="p_card_numero">16,9 mi</p>
                                 <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
                             </div>
                         </div>
@@ -60,8 +60,8 @@
                     <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
                         <div class="card" id="card_conteudo">
                             <div class="card-body">
-                                <p class="card-text" id="p_card_texto">Recuperados</p>
-                                <p class="card-text" id="p_card_numero">400.000</p>
+                                <p class="card-text" id="p_card_texto">Recuperados(Brasil)</p>
+                                <p class="card-text" id="p_card_numero">14,9 mi</p>
                                 <img src="img/virus_green.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
                             </div>
                         </div>
@@ -69,8 +69,8 @@
                     <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
                         <div class="card" id="card_conteudo">
                             <div class="card-body">
-                                <p class="card-text" id="p_card_texto">Confirmados</p>
-                                <p class="card-text" id="p_card_numero">400.000</p>
+                                <p class="card-text" id="p_card_texto">Casos(global)</p>
+                                <p class="card-text" id="p_card_numero">173 mi</p>
                                 <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
                             </div>
                         </div>
@@ -78,9 +78,9 @@
                     <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
                         <div class="card" id="card_conteudo">
                             <div class="card-body">
-                                <p class="card-text" id="p_card_texto">Vacinados</p>
-                                <p class="card-text" id="p_card_numero">400.000</p>
-                                <img src="img/virus_green.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+                                <p class="card-text" id="p_card_texto">Morte(Brasil)</p>
+                                <p class="card-text" id="p_card_numero">473 mil</p>
+                                <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
                             </div>
                         </div>
                     </div>
@@ -100,41 +100,41 @@
             <section>
                 <div class="row me-5" id="div_noticias">
                     <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0">
-                        <img src="img/logo.png" class="img-fluid" alt="">
+                        <img src="https://s2.glbimg.com/ZpjJ0LeoPmInp0K5SoLoDHxGJ3I=/0x0:1200x870/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/h/L/bXop1ITlWZxBy5uzYMww/0506-recordemm-semanal-1-.png" class="img-fluid" alt="">
                     </div>
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-3">
-                        <h5 id="titulo_noticia">Como se prevenir</h5>
-                        <p id="subtitulo_noticia">Uso de máscaras e higienização das mãos são os principais meios de prevenção.</p>
-                        <p id="data_home">21/03/2021</p>
+                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4">
+                        <a target="_blank" title="Brasil registra 1.661 novas mortes por Covid em 24 horas" href="https://g1.globo.com/bemestar/coronavirus/noticia/2021/06/05/brasil-registra-1661-novas-mortes-por-covid-em-24-horas.ghtml"><h5 id="titulo_noticia">g1 | Brasil registra 1.661 novas mortes por Covid em 24 horas</h5></a>
+                        <p id="subtitulo_noticia">País contabiliza 472.629 óbitos e 16.904.986 casos...</p>
+                        <p id="data_home">05/06/2021</p>
                     </div>
                     <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0">
-                        <img src="img/logo.png" class="img-fluid" alt="">
+                        <img src="https://imagens.brasil.elpais.com/resizer/m0_WNUezgu2a--YFA5M11h2nXAw=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/LIMQXLZLBSX4Z623M6XTIDB7RI.jpg" class="img-fluid" alt="">
                     </div>
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-3">
-                        <h5 id="titulo_noticia">Formas de contágio</h5>
-                        <p id="subtitulo_noticia">Pode se espalhar por meio de pequenas gotículas expelidas do nariz ou da boca.</p>
-                        <p id="data_home">21/03/2021</p>
+                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4">
+                        <a target="_blank" title="CBF afasta presidente e cresce a tensão sobre a Copa América" href="https://brasil.elpais.com/brasil/2021-06-06/noticias-sobre-a-covid-19-e-a-crise-politica-ao-vivo.html"><h5 id="titulo_noticia">El País | CBF afasta presidente e cresce a tensão sobre...</h5></a>
+                        <p id="subtitulo_noticia">Brasil confirmou 1.689 mortes em 24 horas neste sábado...</p>
+                        <p id="data_home">06/06/2021</p>
                     </div>
                     <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0 mt-lg-5 mt-xl-5">
-                        <img src="img/logo.png" class="img-fluid" alt="">
+                        <img src="https://medias.cnnbrasil.com.br/pessoas-caminham-de-mascara-em-belem-pa-09092020.jpeg?format=WEBP&image=https://mediastorage.cnnbrasil.com.br/IMAGES/00/00/02/29112_33E572D6BE6243D7.jpg&width=804&height=452&resize=CROP" class="img-fluid" alt="">
                     </div>
                     <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-5 mt-lg-5 mt-xl-5">
-                        <h5 id="titulo_noticia">Quais os sintomas</h5>
-                        <p id="subtitulo_noticia">Febre, tosse e fadiga procure um médico.</p>
-                        <p id="data_home">21/03/2021</p>
+                        <a target="_blank" title="73,9% das cidades mantêm restrições, maio tem 59.010 mortes" href="https://www.cnnbrasil.com.br/saude/2021/05/31/ultimas-da-covid-19-73-9-das-cidades-mantem-restricoes-maio-tem-59010-mortes"><h5 id="titulo_noticia">CNN Brasil | 73,9% das cidades mantêm restrições...</h5></a>
+                        <p id="subtitulo_noticia">Um levantamento realizado pela Confederação Nacional...</p>
+                        <p id="data_home">31/05/2021</p>
                     </div>
                     <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-sm-0 mt-md-0 mt-lg-5 mt-xl-5">
-                        <img src="img/logo.png" class="img-fluid" alt="">
+                        <img src="https://s2.glbimg.com/3Kz-UEN8WL1y9OPEYY2qWVqdfeE=/0x0:1656x742/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/t/x/kYQB6ZQkOqxJxld2CPzg/transferencia-paciente-ok.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-5 mt-lg-5 mt-xl-5">
-                        <h5 id="titulo_noticia">Dúvidas Frequentes</h5>
-                        <p id="subtitulo_noticia">Como pega? Como tratar?</p>
-                        <p id="data_home">21/03/2021</p>
+                        <a target="_blank" href="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2021/06/06/hospitais-lotados-e-251-na-fila-por-leitos-faz-ms-mandar-pacientes-graves-com-covid-19-para-sp.ghtml" title="Hospitais lotados e 251 na fila por leitos fazem MS mandar pacientes graves com Covid-19 para SP "><h5 id="titulo_noticia">UOL | Hospitais lotados e 251 na fila por leitos fazem MS...</h5>
+                        <p id="subtitulo_noticia">Na semana passada, o estado transferiu 9 pacientes para...</p>
+                        <p id="data_home">06/06/2021</p>
                     </div>
                 </div>
             </section>
             <div class="text-end">
-                <a id="link_home" href="">Ver tudo</a>
+                <a id="link_home" target="_blank" href="https://www.google.com/search?client=firefox-b-d&q=noticias+covid">Ver tudo</a>
             </div>
 
         </div>
