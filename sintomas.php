@@ -35,6 +35,7 @@
                         </p>
                     </div>
                 </div>
+                <section>
                 <div class="row mb-5" id="cards">
                     <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                         <div class="card" id="card">
@@ -69,6 +70,7 @@
                         </div>
                     </div>
                 </div>
+                </section>
             </div>
         </article>
     </MAIN>

@@ -26,15 +26,15 @@
                 <div class="row mt-5">
                     <div class="col-12 col-sm-12 col-md-12 col-lg-6">
                         <h1 class="display-4 text-left" id="titulo_cumprimento">
-                            <?php 
-                                $time = date('H');
-                                if($time > 8 && $time < 12){
-                                    echo "Olá, bom dia!";
-                                }else if($time > 12 && $time < 6){
-                                    echo "Olá, boa tarde!";
-                                }else{
-                                    echo "Olá, boa noite!";
-                                }
+                            <?php
+                            $time = date('H');
+                            if ($time > 8 && $time < 12) {
+                                echo "Olá, bom dia!";
+                            } else if ($time > 12 && $time < 6) {
+                                echo "Olá, boa tarde!";
+                            } else {
+                                echo "Olá, boa noite!";
+                            }
                             ?>
                         </h1>
                         <img src="img/Covid_Home.png" class="img-fluid" alt="">
@@ -46,52 +46,58 @@
                     </div>
                 </div>
             </div>
-            <div class="row mt-5 mb-3" id="div_dados">
-                <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
-                    <div class="card" id="card_conteudo">
-                        <div class="card-body">
-                            <p class="card-text" id="p_card_texto">Óbitos</p>
-                            <p class="card-text" id="p_card_numero">400.000</p>
-                            <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+            <section>
+                <div class="row mt-5 mb-3" id="div_dados">
+                    <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
+                        <div class="card" id="card_conteudo">
+                            <div class="card-body">
+                                <p class="card-text" id="p_card_texto">Óbitos</p>
+                                <p class="card-text" id="p_card_numero">400.000</p>
+                                <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
+                        <div class="card" id="card_conteudo">
+                            <div class="card-body">
+                                <p class="card-text" id="p_card_texto">Recuperados</p>
+                                <p class="card-text" id="p_card_numero">400.000</p>
+                                <img src="img/virus_green.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
+                        <div class="card" id="card_conteudo">
+                            <div class="card-body">
+                                <p class="card-text" id="p_card_texto">Confirmados</p>
+                                <p class="card-text" id="p_card_numero">400.000</p>
+                                <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
+                        <div class="card" id="card_conteudo">
+                            <div class="card-body">
+                                <p class="card-text" id="p_card_texto">Vacinados</p>
+                                <p class="card-text" id="p_card_numero">400.000</p>
+                                <img src="img/virus_green.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
-                    <div class="card" id="card_conteudo">
-                        <div class="card-body">
-                            <p class="card-text" id="p_card_texto">Recuperados</p>
-                            <p class="card-text" id="p_card_numero">400.000</p>
-                            <img src="img/virus_green.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
-                    <div class="card" id="card_conteudo">
-                        <div class="card-body">
-                            <p class="card-text" id="p_card_texto">Confirmados</p>
-                            <p class="card-text" id="p_card_numero">400.000</p>
-                            <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" id="card_div">
-                    <div class="card" id="card_conteudo">
-                        <div class="card-body">
-                            <p class="card-text" id="p_card_texto">Vacinados</p>
-                            <p class="card-text" id="p_card_numero">400.000</p>
-                            <img src="img/virus_green.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </section>
         </article>
-        <aside>
-            <div class="container">
+    </main>
+    <aside>
+        <div class="container">
+            <header>
                 <div class="row">
                     <div class="col-12">
                         <h1 class="display-5 text-left" id="titulo_noticias">Últimas noticias</h1>
                     </div>
                 </div>
+            </header>
+            <section>
                 <div class="row me-5" id="div_noticias">
                     <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0">
                         <img src="img/logo.png" class="img-fluid" alt="">
@@ -126,13 +132,15 @@
                         <p id="data_home">21/03/2021</p>
                     </div>
                 </div>
-                <div class="text-end">
-                    <a id="link_home" href="">Ver tudo</a>
-                </div>
-
+            </section>
+            <div class="text-end">
+                <a id="link_home" href="">Ver tudo</a>
             </div>
-        </aside>
 
+        </div>
+    </aside>
+
+    <section>
         <div class="text-end" id="div_img_lateral">
             <img src="img/virus 1.png" class="img-fluid" alt="Imagem de Virús" width="200" height="200" id="img_virus_sintomas">
         </div>
@@ -175,7 +183,7 @@
                 </a>
             </div>
         </div>
-    </main>
+    </section>
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>
