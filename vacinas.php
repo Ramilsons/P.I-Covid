@@ -11,6 +11,7 @@
     <!-- Estilos de fonte adicionais -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="css/vacina.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <title>Vacina contra COVID-19</title>
 </head>
@@ -22,34 +23,36 @@
         <article>
 
             <h1>Vacina Contra a COVID-19</h1>
-
             <p>A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em
                 humanos.Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o
                 agente causador da COVID-19.</p>
 
             <section>
-                <img src="" alt="">
-                <p>1. O vírus é isolado em laboratório.</p>
+                <img src="./img/Ellipse 7.png" alt="vírus laboratório"id="imgvl"/>
+                <h2>1. O vírus é isolado em laboratório.</h2>
             </section>
             <section>
-                <img src="" alt="">
-                <p>2. Os cientistas infectam células com o vírus para que ele se multiplique.</p>
+                <img src="./img/Ellipse 4.png" alt="vírus"id="imgv"/>
+                <h3>2. Os cientistas infectam células com o vírus para que ele se multiplique.</h3>
             </section>
             <section>
-                <img src="" alt="">
-                <p>3. Os vírus são coletados e inativados por meio de procedimentos químicos para não causarem infecção.
-                </p>
+                <img src="./img/Ellipse 8.png" alt="cientista"id="imgc"/>
+                <h2>3. Os vírus são coletados e inativados por meio de procedimentos químicos para não causarem infecção.
+                </h2>
             </section>
             <section>
-                <img src="" alt="">
-                <p>4. Uma substância chamada adjuvante é adicionada aos vírus inativados e purificados para formular a
-                    vacina.</p>
+                <img src="./img/Ellipse 5.png" alt="vírus seringa"id="imgvs"/>
+                <h3>4. Uma substância chamada adjuvante é adicionada aos vírus inativados e purificados para formular a
+                    vacina.</h3>
             </section>
             <section>
-                <img src="" alt="">
-                <p>5. A vacina é aplicada em duas doses para induzir a produção de anticorpos por parte do sistema
-                    imunológico.</p>
+                <img src="./img/Ellipse 6.png" alt="vacina"id="imgva"/>
+                <h2>5. A vacina é aplicada em duas doses para induzir a produção de anticorpos por parte do sistema
+                    imunológico.</h2>
             </section>
+             <div class="text-end">
+        <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+    </div>
             <section>
                 <p>Todas as vacinas têm que passar por testes rigorosos para garantir a sua segurança, antes de poderem
                     ser
@@ -71,12 +74,13 @@
                     em:https://www.who.int/pt/news-room/feature-stories/detail/how-are-vaccines-developed .Acesso em: 27
                     abril
                     2021.
-                    <br />VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível
-                    em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/.Acesso em: 27 abril 2021.
+                    <br />VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/.Acesso em: 27 abril 2021.
+                    <br />Unsplash.Photos for everyone,2021.Disponível em:https://unsplash.com/s/photos/covid.Acesso em: 21 maio 2021.<br />
                 </p>
             </footer>
         </article>
     </MAIN>
+    
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>
