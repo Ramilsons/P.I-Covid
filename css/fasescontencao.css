@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+h1,h3,h5{
+    font-family: 'Comfortaa', cursive !important;
+    color:black;
+}
+
+
+}
+#div_contencao{
+    background-color: #EE6161;
+    text-align: center;
+}
+.mx-auto{
+    text-align: center;
+}
+    
+#botao_emergencial{
+width: 300px; 
+background-color:#cd2c2c; 
+
+}
+
+#botao_vermelho{
+width: 300px; 
+background-color:#fd2626;
+color: black; 
+}
+
+#botao_laranja{
+width: 300px; 
+background-color:#ffa318; 
+}
+
+#botao_amarelo{
+width: 300px; 
+background-color: #f2ec55; 
+}
+
+#botao_azul{
+width: 300px; 
+background-color:#5972f4; 
+}
+
+#botao_verde{
+width: 300px; 
+background-color:#61e433; 
+            }
+
+  
+
+  
