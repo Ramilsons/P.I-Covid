@@ -19,7 +19,7 @@
     <!-- Header php -->
     <?php include "includes/header.php"; ?>
     <main>
-        <img class="rounded mx-auto mt-5 mb-5 d-block img-fluid" src="./img/prevencao-banner.png" alt="Cadeado símbolizando segurança e prevenção">
+        <img class="rounded mx-auto mt-5 mb-5 d-block img-fluid" src="./img/prevencao-banner-att.png" alt="Cadeado símbolizando segurança e prevenção">
         <article class="container mb-5">
             <h1>Como se prevenir?</h1>
             <div class="row justify-content-md-center">

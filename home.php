@@ -37,7 +37,7 @@
                             }
                             ?>
                         </h1>
-                        <img src="img/Covid_Home.png" class="img-fluid" alt="">
+                        <img src="img/Covid_Home-att.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-1  text-center">
                         <h1 class="display-6 col-sm-12" id="saiba_mais">Saiba tudo sobre o COVID-19</h1>
