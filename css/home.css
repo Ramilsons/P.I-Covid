@@ -245,11 +245,15 @@
 
     #div_linha_indice{padding: 60px 0px 60px 30px !important;}
     
-
+    
+    #div_noticias img{
+        height: 150px !important;
+    }
   }
   
   @media (max-width: 766px) {
     #img_virus_sintomas{display: none;}
+
 }
 
   @media (max-width: 750px) {
@@ -260,6 +264,23 @@
   @media (max-width: 600px) {
     #div_linha_indice{padding: 60px 0px 60px 20px !important;}
     #img_virus_sintomas{display: none;}
+
+    
+    #div_noticias img{
+        height: 100px !important;
     }
 
+    }
+
+    @media (max-width: 515px) {
+        #titulo_noticia{
+            font-size: 1em;
+        }
+        
+        #div_noticias img{
+            height: 70px !important;
+        }
+    
+        }
+    
   
