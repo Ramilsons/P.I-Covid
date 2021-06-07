@@ -99,7 +99,7 @@
             </header>
             <section>
                 <div class="row me-5" id="div_noticias">
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0">
+                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2">
                         <img src="https://s2.glbimg.com/ZpjJ0LeoPmInp0K5SoLoDHxGJ3I=/0x0:1200x870/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/h/L/bXop1ITlWZxBy5uzYMww/0506-recordemm-semanal-1-.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4">
@@ -107,26 +107,26 @@
                         <p id="subtitulo_noticia">País contabiliza 472.629 óbitos e 16.904.986 casos...</p>
                         <p id="data_home">05/06/2021</p>
                     </div>
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0">
+                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-4 mt-sm-4 mt-md-4 mt-lg-0">
                         <img src="https://imagens.brasil.elpais.com/resizer/m0_WNUezgu2a--YFA5M11h2nXAw=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/LIMQXLZLBSX4Z623M6XTIDB7RI.jpg" class="img-fluid" alt="">
                     </div>
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-4 mt-sm-4 mt-md-4 mt-lg-0">
                         <a target="_blank" title="CBF afasta presidente e cresce a tensão sobre a Copa América" href="https://brasil.elpais.com/brasil/2021-06-06/noticias-sobre-a-covid-19-e-a-crise-politica-ao-vivo.html"><h5 id="titulo_noticia">El País | CBF afasta presidente e cresce a tensão sobre...</h5></a>
                         <p id="subtitulo_noticia">Brasil confirmou 1.689 mortes em 24 horas neste sábado...</p>
                         <p id="data_home">06/06/2021</p>
                     </div>
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-md-0 mt-lg-5 mt-xl-5">
+                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-4 mt-sm-4 mt-md-4 mt-lg-5 mt-xl-5">
                         <img src="https://medias.cnnbrasil.com.br/pessoas-caminham-de-mascara-em-belem-pa-09092020.jpeg?format=WEBP&image=https://mediastorage.cnnbrasil.com.br/IMAGES/00/00/02/29112_33E572D6BE6243D7.jpg&width=804&height=452&resize=CROP" class="img-fluid" alt="">
                     </div>
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-5 mt-lg-5 mt-xl-5">
+                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-4 mt-sm-4 mt-md-4 mt-lg-5 mt-xl-5">
                         <a target="_blank" title="73,9% das cidades mantêm restrições, maio tem 59.010 mortes" href="https://www.cnnbrasil.com.br/saude/2021/05/31/ultimas-da-covid-19-73-9-das-cidades-mantem-restricoes-maio-tem-59010-mortes"><h5 id="titulo_noticia">CNN Brasil | 73,9% das cidades mantêm restrições...</h5></a>
                         <p id="subtitulo_noticia">Um levantamento realizado pela Confederação Nacional...</p>
                         <p id="data_home">31/05/2021</p>
                     </div>
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-sm-0 mt-md-0 mt-lg-5 mt-xl-5">
+                    <div class="col-4 col-sm-4 col-md-4 col-lg-2 col-xl-2 col-xxl-2 mt-4 mt-sm-4 mt-md-4 mt-lg-5 mt-xl-5">
                         <img src="https://s2.glbimg.com/3Kz-UEN8WL1y9OPEYY2qWVqdfeE=/0x0:1656x742/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/t/x/kYQB6ZQkOqxJxld2CPzg/transferencia-paciente-ok.jpg" class="img-fluid" alt="">
                     </div>
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-md-5 mt-lg-5 mt-xl-5">
+                    <div class="col-8 col-sm-8 col-md-8 col-lg-4 col-xl-4 col-xxl-4 mt-4 mt-sm-4 mt-md-4 mt-lg-5 mt-xl-5">
                         <a target="_blank" href="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2021/06/06/hospitais-lotados-e-251-na-fila-por-leitos-faz-ms-mandar-pacientes-graves-com-covid-19-para-sp.ghtml" title="Hospitais lotados e 251 na fila por leitos fazem MS mandar pacientes graves com Covid-19 para SP "><h5 id="titulo_noticia">UOL | Hospitais lotados e 251 na fila por leitos fazem MS...</h5>
                         <p id="subtitulo_noticia">Na semana passada, o estado transferiu 9 pacientes para...</p>
                         <p id="data_home">06/06/2021</p>
