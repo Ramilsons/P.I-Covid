@@ -67,7 +67,7 @@
                         ser
                         introduzidas no programa de vacinação de um país.
                         <br />Cada vacina em desenvolvimento tem, em primeiro lugar, de ser submetida a exames e avaliações,
-                        para determinar que antigénio deve ser usado para provocar uma resposta do sistema imunitário. Esta fase
+                        para determinar que antígeno deve ser usado para provocar uma resposta do sistema imunitário. Esta fase
                         pré-clínica é feita sem testes em humanos. Uma vacina experimental é testada primeiro em animais,
                         para se
                         avaliar a sua segurança e potencial para prevenir a doença.<br />Se a vacina desencadear uma
