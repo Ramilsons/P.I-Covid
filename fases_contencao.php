@@ -22,28 +22,18 @@
 
   <main>
     <article> 
- 
+ <section>
   <div class="mx-auto" style="width: 700px;">
    <h1 class="titulo_principal"> Fases de Contenção Covid - 19</h1>
-                <div class="row mx-md-n5">
-
 </div>
   
-    <section>
-        <div class="row mt-5 mb-5" id="fases">
-          <div class="col-6">
-</div>
-<div class="row" id="fases">
-                      
+
+<br>
+<br>
+
   <div class="col-6 float-start">
-  
   <a class="btn btn-primary btn-lg col-12" id="botao_emergencial" href="https://www.saopaulo.sp.gov.br/planosp/?utm_source=portal&utm_medium=banner&utm_campaign=PlanoSP" role="button"><h5>Fase Emergencial</h5></a>
-  </div>
-
-
-  <br>
-  <br>
-  <br>
+ </div>
 
 <div class="col-6 float-start">
 <a class="btn btn-primary btn-lg col-12" id="botao_vermelho" href="https://www.saopaulo.sp.gov.br/planosp/?utm_source=portal&utm_medium=banner&utm_campaign=PlanoSP" role="button"><h5>Fase 1 - Vermelha </h5></a>                     
@@ -54,9 +44,6 @@
 <a class="btn btn-primary btn-lg col-12" id="botao_laranja" href="https://www.saopaulo.sp.gov.br/planosp/?utm_source=portal&utm_medium=banner&utm_campaign=PlanoSP" role="button"><h5>Fase 2 - Laranja </h5></a>
 </div>
 
-<br>
-<br>
-<br>
 
 <div class="col-6 float-start">
 <a class="btn btn-primary btn-lg col-12" id="botao_amarelo" href="https://www.saopaulo.sp.gov.br/planosp/?utm_source=portal&utm_medium=banner&utm_campaign=PlanoSP" role="button"><h5>Fase 3 - Amarela </h5></a>
@@ -70,17 +57,19 @@
 <div class="col-6 float-start">
 <a class="btn btn-primary btn-lg col-12" id="botao_azul" href="https://www.saopaulo.sp.gov.br/planosp/?utm_source=portal&utm_medium=banner&utm_campaign=PlanoSP" role="button"><h5>Fase 5 - Azul</h5></a>
 </div>
+</section>
 
-<br>
-<br>
-<br>
-<br>
+<hr>
+<hr>
+
+<section>
+
 
 
 <div class="row align-items-start">
-  <div class="col">
+  <div class="col-3">
   <a class="btn btn-primary btn-lg active" id="botao_emergencial" href="#" role="button"><h5>Fase Emergencial</h5></a></div>
-  <div class="col"><h5 align="justify"> Durante a Fase Emergencial são permitidos; Escritórios em geral e Atividades Administrativas,
+  <div class="col-3"><h5> Durante a Fase Emergencial são permitidos; Escritórios em geral e Atividades Administrativas,
     Repartições de Administração Pública, Telecomunicações, Serviços de Tecnologia da Informação (home office), 
     Estabelecimentos Comerciais (Comércio em geral), Comércio de Material de Construção, Comércio de Produtos Eletrônicos, 
     Restaurantes, Bares (drive-thru de 5h às 20h e entrega na casa do comprador ou delivery por 24h.) e Transporte Coletivo (redução dos horários)
@@ -88,44 +77,57 @@
 
      <hr>
    
-  <div class="col"><a class="btn btn-primary btn-lg active" id="botao_vermelho" href="#" role="button"><h5>Fase 1 - Vermelha </h5></a></div>
-  <div class="col"><h5 align="justify"> Atividades não permitidas na fase vermelha Shopping, Galerias, Estabelecimentos Congêneres,
-     Comércios, Serviços, Consumo Local (Restaurantes e Similares), Salão de Beleza e Barbearias, Academias de Esportes e Centros de Ginástica,
+  <div class="col-3"><a class="btn btn-primary btn-lg active" id="botao_vermelho" href="#" role="button"><h5>Fase 1 - Vermelha </h5></a></div>
+  <div class="col-3"><h5> Atividades não permitidas na fase vermelha Shopping, Galerias, Estabelecimentos Congêneres,
+     Comércios, Serviços, Consumo Local (Restaurante e Similares), Salão de Beleza e Barbearias, Academias de Espostes e Centros de Ginástica,
     Eventos, Convenções e Atividades Culturais. Atividades Religiosas coletivas. Comércio Varejista de Mercadorias: Lojas de Conveniência
    (Venda de bebidas alcóolicas das 06h até as 20h)</h5></div>
+   </div>
+
+
+<hr>
+
+<div class="row align-itens-start">
+  <div class="col-3">
+  <a class="btn btn-primary btn-lg active" id="botao_laranja" href="#" role="button"><h5>Fase 2- Laranja</h5></a></div>
+  <div class="col-3"><h5>São permitidos: Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços, 
+     Consumo Local (Restaurante e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, Academias de 
+     Espostes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais, (40% da capacidade, 8 horas). Atividades Religiosas coletivas
+    (atividade peritida com adoção dos protocolos geral e setorial específicos.)</h5></div>
+          
+          <hr>
+         
+  <div class="col-3"><a class="btn btn-primary btn-lg active" id="botao_amarelo" href="#" role="button"><h5>Fase 3 - Amarela</h5></a></div>
+  <div class="col-3"><h5>São permitidos: Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços,
+  Consumo Local (Restaurante e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, Academias de 
+     Espostes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais,(40% da capacidade, 10 horas). Atividades Religiosas coletivas
+    (atividade peritida com adoção dos protocolos geral e setorial específicos.)</h5></div>
 </div>
 
 <hr>
 
 <div class="row align-itens-start">
-  <div class="col">
-  <a class="btn btn-primary btn-lg active" id="botao_laranja" href="#" role="button"><h5>Fase 2- Laranja</h5></a></div>
-  <div class="col"><h5 align="justify">São permitidos: Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços, 
-     Consumo Local (Restaurantes e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, Academias de 
-     Esportes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais, (40% da capacidade, 8 horas). Atividades Religiosas coletivas
-    (atividade peritida com adoção dos protocolos geral e setorial específicos.)</h5></div>
-          <hr>
-         s
-  <div class="col"><a class="btn btn-primary btn-lg active" id="botao_amarelo" href="#" role="button"><h5>Fase 3 - Amarela</h5></a></div>
-  <div class="col"><h5 align="justify">São permitidos: Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços,
-  Consumo Local (Restaurantes e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, Academias de 
-     Esportes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais,(40% da capacidade, 10 horas). Atividades Religiosas coletivas
-    (atividade permitida com adoção dos protocolos geral e setorial específicos.)</h5></div>
-</div>
-<hr>
-<div class="row">
-  <div class="col">
+  <div class="col-3">
   <a class="btn btn-primary btn-lg active" id="botao_verde" href="#" role="button"><h5>Fase 4 - Verde</h5></a></div>
-  <div class="col"><h5 align="justify">São permitidos: Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços,  
-  Consumo Local (Restaurantes e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, 
-  Academias de Esportes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais,(60% da capacidade, 12 horas).
-  Atividades Religiosas coletivas (atividade permitida com adoção dos protocolos geral e setorial específicos.)</h5></div>
+  <div class="col-3"><h5>São permitidos: Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços,  
+  Consumo Local (Restaurante e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, 
+  Academias de Espostes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais,(60% da capacidade, 12 horas).
+  Atividades Religiosas coletivas (atividade peritida com adoção dos protocolos geral e setorial específicos.)</h5></div>
+
           <hr>
-  <div class="col"><a class="btn btn-primary btn-lg active" id="botao_azul" href="#" role="button"><h5>Fase 5 - Azul</h5></a></div>
-  <div class="col"><h5 align="justify"> É a última fase onde praticamente tudo volta a funcionar, Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços, 
-    Consumo Local (Restaurantes e Similares), Salão de Beleza e Barbearias, Academias de Esportes e Centros de Ginástica,
+
+  <div class="col-3"><a class="btn btn-primary btn-lg active" id="botao_azul" href="#" role="button"><h5>Fase 5 - Azul</h5></a></div>
+  <div class="col-3"><h5> É a última fase onde praticamente tudo volta a funcionar, Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços, 
+    Consumo Local (Restaurante e Similares), Salão de Beleza e Barbearias, Academias de Espostes e Centros de Ginástica,
     Eventos, Convenções e Atividades Culturais. Atividades Religiosas coletivas, etc.</h5></div>
 </div>
+</section>
+
+<br>
+<br>
+
+
+<div id="fonte"><h5> Fonte: https://www.saopaulo.sp.gov.br/planosp/?utm_source=portal&utm_medium=banner&utm_campaign=PlanoSP>
 
     </article>
   </main>
