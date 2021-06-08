@@ -12,7 +12,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="./css/estilos.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <title>Formas De Contagio</title>
+    <link rel="stylesheet" href="css/formasdecontagio.css">
+    <title>Formas De Contágio</title>
 </head>
 
 <body>
@@ -21,63 +22,50 @@
 
     <MAIN>
         <article>
-            <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                deserunt mollit anim id est laborum.</h1>
-            <section>
-                <img src="" alt="">
-            </section>
+            <h1>Formas de contágio</h1>
+            <div class="contagio-1">
+                <img src="img/contagio1.png" class="contagio_1" alt="">
+            </div>
             <section>
                 <section>
-                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.t</h3>
+                <h2>Transmissão</h2>
+                    <p>O novo coronavírus, que causa a COVID-19, pode ser transmitido entre pessoas. 
+                    A doença pode se espalhar por meio de pequenas gotículas do nariz ou da boca – 
+                    expelidas por uma pessoa com COVID-19 quando tosse ou espirra, por exemplo. 
+                    Essas gotículas depositam-se em objetos e superfícies ao redor da pessoa. 
+                    Outras pessoas se contaminam tocando esses objetos ou superfícies e depois tocando nos olhos, nariz ou boca.  
+                    fonte (https://vidasaudavel.einstein.br/coronavirus/covid-19-faq/)
+                    <p>
+                  
                 </section>
                 <section>
-                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.t</h3>
+                    <h3>Formas de contaminação</h3>
+                    <nav>
+                    <li> gotículas de saliva;</li>
+                    <li> espirro;  </li>
+                    <li> tosse; </li>
+                    <li> catarro.</li>
+                    </nav>
                 </section>
                 <section>
-                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.t</h3>
-                </section>
-            </section>
-            <section>
+                <img src="img/contagio2.png" class="contagio_2"  alt="...">
+                </section>     
+                 <h3>Importante</h3>
+
+                    <p>É importante destacar que, em alguns casos, 
+                    um indivíduo contaminado pode transmitir a doença, mesmo antes de apresentar sintomas.
+                    <p>
+                
+            
+            
                 <section>
-                    <img src="" alt="">
+                    <img src="img/contagio3.png" class="contagio_3" alt="...">
                 </section>
-                <section>
-                    <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h4>
-                </section>
+                
             </section>
         </article>
     </MAIN>
-    <aside>
-        <section>
-            <section><img src="" alt=""></section>
-            <section>
-                <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.</h4>
-            </section>
-        </section>
-    </aside>
+    
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>
