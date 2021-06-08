@@ -90,7 +90,7 @@
    
   <div class="col"><a class="btn btn-primary btn-lg active" id="botao_vermelho" href="#" role="button"><h5>Fase 1 - Vermelha </h5></a></div>
   <div class="col"><h5 align="justify"> Atividades não permitidas na fase vermelha Shopping, Galerias, Estabelecimentos Congêneres,
-     Comércios, Serviços, Consumo Local (Restairante e Similares), Salão de Beleza e Barbearias, Academias de Espostes e Centros de Ginástica,
+     Comércios, Serviços, Consumo Local (Restaurantes e Similares), Salão de Beleza e Barbearias, Academias de Esportes e Centros de Ginástica,
     Eventos, Convenções e Atividades Culturais. Atividades Religiosas coletivas. Comércio Varejista de Mercadorias: Lojas de Conveniência
    (Venda de bebidas alcóolicas das 06h até as 20h)</h5></div>
 </div>
@@ -101,29 +101,29 @@
   <div class="col">
   <a class="btn btn-primary btn-lg active" id="botao_laranja" href="#" role="button"><h5>Fase 2- Laranja</h5></a></div>
   <div class="col"><h5 align="justify">São permitidos: Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços, 
-     Consumo Local (Restairante e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, Academias de 
-     Espostes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais, (40% da capacidade, 8 horas). Atividades Religiosas coletivas
+     Consumo Local (Restaurantes e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, Academias de 
+     Esportes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais, (40% da capacidade, 8 horas). Atividades Religiosas coletivas
     (atividade peritida com adoção dos protocolos geral e setorial específicos.)</h5></div>
           <hr>
          s
   <div class="col"><a class="btn btn-primary btn-lg active" id="botao_amarelo" href="#" role="button"><h5>Fase 3 - Amarela</h5></a></div>
   <div class="col"><h5 align="justify">São permitidos: Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços,
-  Consumo Local (Restairante e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, Academias de 
-     Espostes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais,(40% da capacidade, 10 horas). Atividades Religiosas coletivas
-    (atividade peritida com adoção dos protocolos geral e setorial específicos.)</h5></div>
+  Consumo Local (Restaurantes e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, Academias de 
+     Esportes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais,(40% da capacidade, 10 horas). Atividades Religiosas coletivas
+    (atividade permitida com adoção dos protocolos geral e setorial específicos.)</h5></div>
 </div>
 <hr>
 <div class="row">
   <div class="col">
   <a class="btn btn-primary btn-lg active" id="botao_verde" href="#" role="button"><h5>Fase 4 - Verde</h5></a></div>
   <div class="col"><h5 align="justify">São permitidos: Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços,  
-  Consumo Local (Restairante e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, 
-  Academias de Espostes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais,(60% da capacidade, 12 horas).
-  Atividades Religiosas coletivas (atividade peritida com adoção dos protocolos geral e setorial específicos.)</h5></div>
+  Consumo Local (Restaurantes e Similares)(40% da capacidade, 8 horas). Salão de Beleza e Barbearias, 
+  Academias de Esportes e Centros de Ginástica, Eventos, Convenções e Atividades Culturais,(60% da capacidade, 12 horas).
+  Atividades Religiosas coletivas (atividade permitida com adoção dos protocolos geral e setorial específicos.)</h5></div>
           <hr>
   <div class="col"><a class="btn btn-primary btn-lg active" id="botao_azul" href="#" role="button"><h5>Fase 5 - Azul</h5></a></div>
   <div class="col"><h5 align="justify"> É a última fase onde praticamente tudo volta a funcionar, Shopping, Galerias, Estabelecimentos Congêneres, Comércios, Serviços, 
-    Consumo Local (Restairante e Similares), Salão de Beleza e Barbearias, Academias de Espostes e Centros de Ginástica,
+    Consumo Local (Restaurantes e Similares), Salão de Beleza e Barbearias, Academias de Esportes e Centros de Ginástica,
     Eventos, Convenções e Atividades Culturais. Atividades Religiosas coletivas, etc.</h5></div>
 </div>
 

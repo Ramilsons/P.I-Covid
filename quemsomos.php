@@ -30,7 +30,7 @@
                             <p class="nome">Luana Aparecida Pedroso de Oliveira</p>
                             <p class="paragrafo_1">RA:2650832023033</p>
                             <p class="paragrafo_1">Mini Biografia: Meu nome é Luana, tenho 28 anos, sou técnica em contabilidade, estou conhecendo a area de tecnologia e gostando muito.</p>
-                            <p class="paragrafo_1">Função: Imagens e Grá.ficos.</p>
+                            <p class="paragrafo_1">Função: Imagens e Gráficos.</p>
                             <a class="link_pagina" href="fases_contencao.php">Link: Fases de Contenção</a>
                         </div>
                         <div class="col-12 col-sm-12 col-md-12 col-lg-4">
@@ -38,8 +38,8 @@
                             <p class="nome">Rafael dos Santos</p>
                             <p class="paragrafo_1">RA: 2650832013016</p>
                             <p class="paragrafo_1">Mini Biografia: Olá me chamo Rafael tenho 30 anos sou formado em técnico
-                                em química indústrial e elétrica industrial .
-                                agora estou migrando de área cursando sistemas para internet na FATEC-SR , no momento em busca de estágio.</p>
+                                em química indústrial e elétrica industrial.
+                                Agora estou migrando de área cursando sistemas para internet na FATEC-SR , no momento em busca de estágio.</p>
                             <p class="paragrafo_1">Função: Coder</p>
                             <a class="link_pagina" href="formas_contagio.php">Link: Formas de contagio</a>
                         </div>

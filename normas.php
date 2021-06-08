@@ -97,7 +97,7 @@
                         <div class="row mt-4 mb-5">
                             <h3 class="titulo_norma">6.Dos direitos autorais</h3>
                             <h4 class="paragrafo_norma">O presente Termo de Uso concede aos usuários para acessar e fazer uso da plataforma e dos serviços por ela disponibilizados.
-                                A estrutura do site, as marcas,logotipos, nomes comerciais,layouts, gráficos e design de interface, imagens, ilustrações, fotografias, apresentações, vídeos, conteúdos escritos,banco de dados e quaisquer outra informação e direitos de propriedades intelectual da razão social XXXXXX, observados os termos da Lei da propriedades industrial (Lei nª9.279/96), Lei de direitos autorais (Leiné9.610/98) e Lei do Software (Lei nª9.609/98),estão devidamente reservados.
+                                A estrutura do site, as marcas,logotipos, nomes comerciais,layouts, gráficos e design de interface, imagens, ilustrações, fotografias, apresentações, vídeos, conteúdos escritos,banco de dados e quaisquer outra informação e direitos de propriedades intelectual da razão social XXXXXX, observados os termos da Lei da propriedades industrial (Lei nº9.279/96), Lei de direitos autorais (Leinº9.610/98) e Lei do Software (Lei nº9.609/98),estão devidamente reservados.
                                 Esses Termos de Uso não cede ou transfere ao usuário qualquer direito, de modo que o acesso não gera qualquer direito de propriedade intelectual ao usuário.</h4>
                             <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4 mb-5" alt="">
                         </div>

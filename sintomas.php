@@ -29,9 +29,9 @@
                     </div>
                     <div class="col-12 align-self-start" id="Corpo_sintomas">
                         <p class="lead" style="margin-top: 30px; margin-left: 15px; font-size: 1.0em;">
-                            O número de infectados em nosso país cresce cada vez mais. Devido a isso devemos salientar os primeiros sintomas que são apresentados quando contraimos o virus, já que eles podem ser facilmente confundidos com os sintomas de outras doenças.
-                            O periodo de incubação do virús é de 2 a 14 dias, esse é o tempo que demora para os sintomas aparecerem.
-                            Os primeiros indicios de manifestação do vírus são: febre e tosse. Dificuldades para respirar e fadiga costumam aparecer durante a progressão da doença. Durante o sétimo dia 80% das pessoas conseguem uma melhora dos sintomas. Caso eles persistam o quadro passa a ser moderado. Nos casos mais complicados, os sintomas se intensificam causando insuficiência respiratória e necessidade de utilizar ventilação mecãnica.
+                            O número de infectados em nosso país cresce cada vez mais. Devido a isso devemos salientar os primeiros sintomas que são apresentados quando contraímos o virus, já que eles podem ser facilmente confundidos com os sintomas de outras doenças.
+                            O periodo de incubação do vírus é de 2 a 14 dias, esse é o tempo que demora para os sintomas aparecerem.
+                            Os primeiros indícios de manifestação do vírus são: febre e tosse. Dificuldades para respirar e fadiga costumam aparecer durante a progressão da doença. Durante o sétimo dia 80% das pessoas conseguem uma melhora dos sintomas. Caso eles persistam o quadro passa a ser moderado. Nos casos mais complicados, os sintomas se intensificam causando insuficiência respiratória e necessidade de utilizar ventilação mecãnica.
                         </p>
                     </div>
                 </div>
@@ -83,7 +83,7 @@
         <div class="container">
             <div class="row">
                 <p class="p1">Referência Bibliográfica
-                    Sintomas da COVID-19. Dísponivel no site UOL, 2021. Para mais informações acesse <a href="https://www.uol.com.br/vivabem/noticias/redacao/2021/02/04/saiba-quais-sao-os-principais-sintomas-da-covid-19.htm?next=0001H867U11N">Uol</a></p>
+                    Sintomas da COVID-19. Dísponivel no site UOL, 2021. Para mais informações acesse <a href="https://www.uol.com.br/vivabem/noticias/redacao/2021/02/04/saiba-quais-sao-os-principais-sintomas-da-covid-19.htm?next=0001H867U11N">Uol.Acesso em: 01 de junho de 2021.</a></p>
             </div>
         </div>
     </aside>

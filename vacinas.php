@@ -79,11 +79,11 @@
                     <p>
                         Referência Bibliográfica
                         <br />Como são as vacinas desenvolvidas? World Health Organization, 2021.Disponível
-                        em:https://www.who.int/pt/news-room/feature-stories/detail/how-are-vaccines-developed .Acesso em: 27
-                        abril
+                        em:https://www.who.int/pt/news-room/feature-stories/detail/how-are-vaccines-developed .Acesso em: 27 de 
+                        abril de
                         2021.
-                        <br />VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/.Acesso em: 27 abril 2021.
-                        <br />Unsplash.Photos for everyone,2021.Disponível em:https://unsplash.com/s/photos/covid.Acesso em: 21 maio 2021.<br />
+                        <br />VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/.Acesso em: 27 de abril de 2021.
+                        <br />Unsplash.Photos for everyone,2021.Disponível em:https://unsplash.com/s/photos/covid.Acesso em: 21 de maio de 2021.<br />
                     </p>
                 </footer>
         </article>
