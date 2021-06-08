@@ -22,72 +22,101 @@
     <MAIN>
         <article>
 
-
-            <h1>Vacina Contra a COVID-19<span class="badge badge-secondary"></span></h1>
-            <p>A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em
-                humanos.Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o
-                agente causador da COVID-19.</p>
+            <div class="row" id="div_vacinaCOVID">
+                <h1 class="titulo_principal">Vacina Contra a COVID-19</h1>
+                <p>A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em
+                    humanos.Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o
+                    agente causador da COVID-19.</p>
+            </div>
 
             <section>
-                <img src="./img/Ellipse 7.png" class="img-fluid" alt="vírus laboratório" id="imgvl" />
-                <span class="align-middle"></span>
-                <span class="align-text-bottom">1.O vírus é isolado em laboratório.</span>
-        
-                <section>
 
-                    <img src="./img/Ellipse 4.png" class="img-fluid" alt="virus" id="imgv" />
-                    <span class="align-baseline"> 2. Os cientistas infectam células com o vírus para que ele se multiplique.</span>
-                    <div class="text-nowrap bd-highlight" style="width: 8rem;">
+                <div class="row mb-3" id="div_vacina">
+                    <div class="col-6 float-start" id="imgs_vacina">
+                        <img src="./img/Ellipse 7.png" class="img-fluid" alt="vírus laboratório" id="imgvl" />
                     </div>
-                </section>
-                <section>
-                    <img src="./img/Ellipse 8.png" class="img-fluid" alt="cientista" id="imgc" />
-                    <span class="align-middle"></span>
-                    <span class="align-text-bottom">3. Os vírus são coletados e inativados por meio de procedimentos químicos para não causarem infecção.</span>
+                    <div class="col-6 float-end">
+                        <h2 id="fonte_vírus laboratório">1.O vírus é isolado em laboratório.</h2>
+                    </div>
 
-                </section>
-                <section>
-                    <img src="./img/Ellipse 5.png" class="img-fluid" alt="vírus seringa" id="imgvs" />
-                    <span class="align-baseline">4. Uma substância chamada adjuvante é adicionada aos vírus inativados e purificados para formular a
-                        vacina.</span>
+                    <div class="row" id="div_vacina">
+                        <div class="col-6 float-start">
+                            <h2 id="fonte_virus"> 2. Os cientistas infectam células com o vírus para que ele se multiplique.</h2>
+                        </div>
 
-                </section>
-                <section>
-                    <img src="./img/Ellipse 6.png" class="img-fluid" alt="vacina" id="imgva" />
-                    <span class="align-middle"></span>
-                    <span class="align-text-bottom">5. A vacina é aplicada em duas doses para induzir a produção de anticorpos por parte do sistema
-                        imunológico.</span>
+                        <div class="col-6 float-end" id="imgs_vacina">
+                            <img src="./img/Ellipse 4.png" class="img-fluid" alt="virus" id="imgv" />
+                        </div>
+                        <div class="row mb-3" id="div_vacina">
+                            <div class="col-6 float-start" id="imgs_vacina">
+                                <img src="./img/Ellipse 8.png" class="img-fluid" alt="cientista" id="imgc" />
+                            </div>
+                            <div class="col-6 float-end">
+                                <h2 id="fonte_cientista">3. Os vírus são coletados e inativados por meio de procedimentos químicos para não causarem infecção.</h2>
+                            </div>
 
-                </section>
-                <div class="text-end">
-                    <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
-                </div>
-                <section>
-                    <p>Todas as vacinas têm que passar por testes rigorosos para garantir a sua segurança, antes de poderem
-                        ser
-                        introduzidas no programa de vacinação de um país.
-                        <br />Cada vacina em desenvolvimento tem, em primeiro lugar, de ser submetida a exames e avaliações,
-                        para determinar que antígeno deve ser usado para provocar uma resposta do sistema imunitário. Esta fase
-                        pré-clínica é feita sem testes em humanos. Uma vacina experimental é testada primeiro em animais,
-                        para se
-                        avaliar a sua segurança e potencial para prevenir a doença.<br />Se a vacina desencadear uma
-                        resposta
-                        imunitária, passa a ser testada em ensaios clínicos com humanos em três fases.<br />
-                    </p>
-                </section>
-                <footer>
-                    <p>
-                        Referência Bibliográfica
-                        <br />Como são as vacinas desenvolvidas? World Health Organization, 2021.Disponível
-                        em:https://www.who.int/pt/news-room/feature-stories/detail/how-are-vaccines-developed .Acesso em: 27 de 
-                        abril de
-                        2021.
-                        <br />VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/.Acesso em: 27 de abril de 2021.
-                        <br />Unsplash.Photos for everyone,2021.Disponível em:https://unsplash.com/s/photos/covid.Acesso em: 21 de maio de 2021.<br />
-                    </p>
-                </footer>
+                            <div class="row" id="div_vacina">
+                                <div class="col-6 float-start">
+                                    <h2 id="fonte_vírus seringa"> 4. Uma substância chamada adjuvante é adicionada aos vírus inativados e purificados para formular a vacina.</h2>
+                                </div>
+                                <div class="col-6 float-end" id="imgs_vacina">
+                                    <img src="./img/Ellipse 5.png" class="img-fluid" alt="vírus seringa" id="imgvs" />
+                                </div>
+
+                                <div class="row mb-3" id="div_vacina">
+                                    <div class="col-6 float-start" id="imgs_vacina">
+                                        <img src="./img/Ellipse 6.png" class="img-fluid" alt="vacina" id="imgva" />
+                                    </div>
+                                </div>
+                                <div class="col-6 float-end">
+                                    <h2 id="vacina">5. A vacina é aplicada em duas doses para induzir a produção de anticorpos por parte do sistema
+                                        imunológico.</h2>
+                                </div>
+
+                                <div class="text-end">
+                                    <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+                            </div>
+                        </div>
+                    </div>
+            </section>
         </article>
     </MAIN>
+    <aside>
+        <div class="row" id="div_vacinaf">
+            <p class="p1">
+                Todas as vacinas têm que passar por testes rigorosos para garantir a sua segurança, antes de poderem
+                ser
+                introduzidas no programa de vacinação de um país.
+            </p>
+            <p class="p2">
+                Cada vacina em desenvolvimento tem, em primeiro lugar, de ser submetida a exames e avaliações,
+                para determinar que antígeno deve ser usado para provocar uma resposta do sistema imunitário. Esta fase
+                pré-clínica é feita sem testes em humanos. Uma vacina experimental é testada primeiro em animais,
+                para se
+                avaliar a sua segurança e potencial para prevenir a doença.
+            </p>
+            <p class="p3">
+                Se a vacina desencadear uma
+                resposta
+                imunitária, passa a ser testada em ensaios clínicos com humanos em três fases.
+
+            <p>
+            <p class="p4">
+                Referência Bibliográfica:
+                Como são as vacinas desenvolvidas? World Health Organization, 2021.Disponível
+                em:https://www.who.int/pt/news-room/feature-stories/detail/how-are-vaccines-developed .Acesso em: 27 de
+                abril de
+                2021.
+            </p>
+            <p class="p5">
+                VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/.Acesso em: 27 de abril de 2021.
+            </p>
+            <p class="p6">
+                Unsplash.Photos for everyone,2021.Disponível em:https://unsplash.com/s/photos/covid.Acesso em: 21 de maio de 2021.
+            </p>
+        </div>
+    </aside>
+
 
     <!-- Footer php -->
     <?php include "includes/footer.php"; ?>
