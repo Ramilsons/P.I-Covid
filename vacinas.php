@@ -19,14 +19,15 @@
 <body>
     <!-- Header php -->
     <?php include "includes/header.php"; ?>
+
     <MAIN>
         <article>
 
             <div class="row" id="div_vacinaCOVID">
                 <h1 class="titulo_principal">Vacina Contra a COVID-19</h1>
-                <p>A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em
+                <h3 class="título secundário"> A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em
                     humanos.Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o
-                    agente causador da COVID-19.</p>
+                    agente causador da COVID-19.</h3>
             </div>
 
             <section>
@@ -36,12 +37,12 @@
                         <img src="./img/Ellipse 7.png" class="img-fluid" alt="vírus laboratório" id="imgvl" />
                     </div>
                     <div class="col-6 float-end">
-                        <h2 id="fonte_vírus laboratório">1.O vírus é isolado em laboratório.</h2>
+                        <h2 id="fonte1">1.O vírus é isolado em laboratório.</h2>
                     </div>
 
                     <div class="row" id="div_vacina">
                         <div class="col-6 float-start">
-                            <h2 id="fonte_virus"> 2. Os cientistas infectam células com o vírus para que ele se multiplique.</h2>
+                            <h2 id="fonte2"> 2. Os cientistas infectam células com o vírus para que ele se multiplique.</h2>
                         </div>
 
                         <div class="col-6 float-end" id="imgs_vacina">
@@ -52,35 +53,36 @@
                                 <img src="./img/Ellipse 8.png" class="img-fluid" alt="cientista" id="imgc" />
                             </div>
                             <div class="col-6 float-end">
-                                <h2 id="fonte_cientista">3. Os vírus são coletados e inativados por meio de procedimentos químicos para não causarem infecção.</h2>
+                                <h2 id="fonte1">3. Os vírus são coletados e inativados por meio de procedimentos químicos para não causarem infecção.</h2>
                             </div>
 
                             <div class="row" id="div_vacina">
                                 <div class="col-6 float-start">
-                                    <h2 id="fonte_vírus seringa"> 4. Uma substância chamada adjuvante é adicionada aos vírus inativados e purificados para formular a vacina.</h2>
+                                    <h2 id="fonte2"> 4. Uma substância chamada adjuvante é adicionada aos vírus inativados e purificados para formular a vacina.</h2>
                                 </div>
                                 <div class="col-6 float-end" id="imgs_vacina">
                                     <img src="./img/Ellipse 5.png" class="img-fluid" alt="vírus seringa" id="imgvs" />
                                 </div>
-
-                                <div class="row mb-3" id="div_vacina">
+                                <div class="col-12" id="div_vacina2">
                                     <div class="col-6 float-start" id="imgs_vacina">
                                         <img src="./img/Ellipse 6.png" class="img-fluid" alt="vacina" id="imgva" />
                                     </div>
-                                </div>
-                                <div class="col-6 float-end">
-                                    <h2 id="vacina">5. A vacina é aplicada em duas doses para induzir a produção de anticorpos por parte do sistema
-                                        imunológico.</h2>
-                                </div>
-
-                                <div class="text-end">
-                                    <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
-                            </div>
-                        </div>
-                    </div>
+                                    <div class="col-6 float-end">
+                                        <h2 id="fonte1">
+                                            5. A vacina é aplicada em duas doses para induzir a produção de anticorpos por parte do sistema
+                                            imunológico.</h2>
+                                    </div>
             </section>
+            </div>
         </article>
     </MAIN>
+    <section>
+        <div class="text-end">
+            <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+        </div>
+    </section>
+    </div>
+
     <aside>
         <div class="row" id="div_vacinaf">
             <p class="p1">

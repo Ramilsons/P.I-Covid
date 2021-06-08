@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+h1,
+h2 {
+    font-family: 'Comfortaa', cursive !important;
+}
+
+h3 {
+    font-family: 'DM Sans', cursive !important;
+}
+
+#div_vacinaCOVID {
+    background-color: #EE6161;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+
+}
+
+.titulo_principal {
+    margin: 150px 0px 250px 0px !important;
+}
+
+.titulo_ secundário {
+    margin: 150px 0px 250px 0px !important;
+}
+
+#imgs_vacina {
+    text-align: center !important;
+}
+
+#div_vacina {
+    margin-top: 100px !important;
+    margin-bottom: 20px !important;
+}
+
+#fonte1 {
+    font-size: 2.5em !important;
+    margin-top: 40px !important;
+    margin-right: 30px !important;
+}
+
+#fonte2 {
+    font-size: 2.5em !important;
+    margin: 50px 30px 0px 120px !important;
+}
+
+#div_vacina {
+    margin-bottom: 70px !important;
+    }
+    #div_vacina2{
+    margin: -60px 0px60px 0px !important;
+}
+
+#img_virus_sintomas {
+    margin:100px 0px 10px 0px;
+}
+
+#div_vacinaf {
+    background-color: #EE6161 !important;
+    padding: 0px 200px 0px 200px;
+    text-align: left !important;
+    width: 103% !important;
+}
+
+.p1 {
+    margin: 120px 0px 20px 0px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.p2 {
+    margin: 0px 0px 20px 0px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.p3 {
+    margin: 0px 0px 20px 0px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.p4 {
+    margin: 0px 0px 20px 0px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.p5 {
+    margin: 0px 0px 20px 0px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.p6 {
+    margin: 0px 0px20px 0px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+@media (max-width: 1060px) {
+    #fonte1 {
+        font-size: 2.0em !important;
+        margin: 40px !important;
+    }
+
+    #fonte2 {
+        font-size: 2.0em !important;
+        margin-top: 40px !important;
+        margin-left: 60px !important;
+    }
+
+    #imgs_vacina {
+        padding: 30px !important;
+    }
+
+    #div_div_vacinaf {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .p1 {
+        font-size: 1.3em;
+
+    }
+
+    .p2 {
+        font-size: 1.3em;
+    }
+
+    .p3 {
+        font-size: 1.3em;
+    }
+
+    .p4 {
+        font-size: 1.3em;
+    }
+
+    .p5 {
+        font-size: 1.3em;
+    }
+
+    .p6 {
+        font-size: 1.3em;
+    }
+}
+
+@media (max-width: 800px) {
+
+
+    #fonte1 {
+        font-size: 1.7em !important;
+    }
+
+    #fonte2 {
+        font-size: 1.7em !important;
+        margin-left: 40px !important;
+    }
+
+    .p1 {
+        font-size: 1.1em;
+
+    }
+
+    .p2 {
+        font-size: 1.1em;
+    }
+
+    .p3 {
+        font-size: 1.1em;
+    }
+
+    .p4 {
+        font-size: 1.1em;
+    }
+
+    .p5 {
+        font-size: 1.1em;
+    }
+
+    .p6 {
+        font-size: 1.1em;
+    }
+}
+
+@media (max-width: 600px) {
+    #fonte1 {
+        font-size: 1.1em !important;
+        margin: 40px;
+    }
+
+    #fonte2 {
+        font-size: 1.1em !important;
+        margin: 40px;
+    }
+
+    #div_vacina {
+        margin-bottom: 40px !important;
+    }
+
+    #img_virus_sintomas {
+        width: 35%;
+        margin: 150px 0px -80px 0px !important;
+    }
+
+    .p1 {
+        font-size: 0.8em;
+
+    }
+
+    .p2 {
+        font-size: 0.8em;
+    }
+
+    .p3 {
+        font-size: 0.8em;
+    }
+
+    .p4 {
+        font-size: 0.8em;
+    }
+
+    .p5 {
+        font-size: 0.8em;
+    }
+
+    .p6 {
+        font-size: 0.8em;
+    }
+}
+
+@media (max-width: 420px) {
+
+    #fonte1 {
+        font-size: 0.8em !important;
+        margin: 20px;
+    }
+
+    #fonte2 {
+        font-size: 0.8em !important;
+        margin: 20px;
+    }
+
+    #div_vacina {
+        margin-bottom: 20px !important;
+    }
+
+    #img_virus_sintomas {
+        width: 35%;
+        margin: 100px 0px 0px 0px !important;
+    }
+
+    .p1 {
+        font-size: 0.6em;
+
+    }
+
+    .p2 {
+        font-size: 0.6em;
+    }
+
+    .p3 {
+        font-size: 0.6em;
+    }
+
+    .p4 {
+        font-size: 0.6em;
+    }
+
+    .p5 {
+        font-size: 0.6em;
+    }
+
+    .p6 {
+        font-size: 0.6em;
+    }
+
+    #div_vacinaf {
+        padding: 20px;
+    }
+     #div_vacina2{
+        margin: -40px 0px 70px 0px !important;
+}
