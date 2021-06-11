@@ -24,7 +24,7 @@
         <article>
             <h1>Formas de contágio</h1>
             <div class="contagio-1">
-                <img src="img/contagio1.png" class="contagio_1" alt="">
+                <img src="img/contagio1.png" class="displayed" src="..." alt="...">
             </div>
             <section>
                 <section>
@@ -48,8 +48,7 @@
                     </nav>
                 </section>
                 <section>
-                <img src="img/contagio2.png" class="contagio_2"  alt="...">
-                </section>     
+                <img src="img/contagio2.png" class="displayed" src="..." alt="...">
                  <h3>Importante</h3>
 
                     <p>É importante destacar que, em alguns casos, 
@@ -59,7 +58,7 @@
             
             
                 <section>
-                    <img src="img/contagio3.png" class="contagio_3" alt="...">
+                    <img src="img/contagio3.png" class="displayed" src="..." alt="..."><br>
                 </section>
                 
             </section>
