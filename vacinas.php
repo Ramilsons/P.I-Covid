@@ -72,17 +72,19 @@
                                             5. A vacina é aplicada em duas doses para induzir a produção de anticorpos por parte do sistema
                                             imunológico.</h2>
                                     </div>
+                                                    </div>
+                                  </div>
+                                                    </div>
+                    </div>
+                </div>
             </section>
-            </div>
         </article>
     </MAIN>
     <section>
         <div class="text-end">
-            <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+            <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas"/>
         </div>
     </section>
-    </div>
-
     <aside>
         <div class="row" id="div_vacinaf">
             <p class="p1">
@@ -101,8 +103,7 @@
                 Se a vacina desencadear uma
                 resposta
                 imunitária, passa a ser testada em ensaios clínicos com humanos em três fases.
-
-            <p>
+  </p>
             <p class="p4">
                 Referência Bibliográfica:
                 Como são as vacinas desenvolvidas? World Health Organization, 2021.Disponível
