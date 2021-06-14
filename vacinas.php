@@ -25,9 +25,10 @@
 
             <div class="row" id="div_vacinaCOVID">
                 <h1 class="titulo_principal">Vacina Contra a COVID-19</h1>
-                <h3 class="título secundário"> A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em
+                <h3 class="título secundário">  A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em
                     humanos.Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o
                     agente causador da COVID-19.</h3>
+
             </div>
 
             <section>
@@ -72,9 +73,9 @@
                                             5. A vacina é aplicada em duas doses para induzir a produção de anticorpos por parte do sistema
                                             imunológico.</h2>
                                     </div>
-                                                    </div>
-                                  </div>
-                                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -82,7 +83,7 @@
     </MAIN>
     <section>
         <div class="text-end">
-            <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas"/>
+            <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas" />
         </div>
     </section>
     <aside>
@@ -103,7 +104,7 @@
                 Se a vacina desencadear uma
                 resposta
                 imunitária, passa a ser testada em ensaios clínicos com humanos em três fases.
-  </p>
+            </p>
             <p class="p4">
                 Referência Bibliográfica:
                 Como são as vacinas desenvolvidas? World Health Organization, 2021.Disponível
@@ -112,7 +113,7 @@
                 2021.
             </p>
             <p class="p5">
-                VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/.Acesso em: 27 de abril de 2021.
+                VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/. Acesso em: 27 de abril de 2021.
             </p>
             <p class="p6">
                 Unsplash.Photos for everyone,2021.Disponível em:https://unsplash.com/s/photos/covid.Acesso em: 21 de maio de 2021.
