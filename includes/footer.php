@@ -1,6 +1,6 @@
 <footer>
         <div class="clearfix position-relative" id="footer_div">
-            <a href="home.php"><img src="img/logo.png" class="img-fluid" id="img_footer" width="80" height="76" alt=""></a>
+            <a href="index.php"><img src="img/logo.png" class="img-fluid" id="img_footer" width="80" height="76" alt=""></a>
             <div class="row">
                 <nav class="navbar navbar-expand-lg navbar-light" id="footer_menu">
                     <div class="container-fluid m-auto">

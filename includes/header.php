@@ -5,7 +5,7 @@
 <header>
         <nav class="navbar navbar-expand-xl navbar-light">
             <div class="container-fluid">
-                <a href="home.php" class="navbar-brand" id="brand_esquerda" href="#">
+                <a href="index.php" class="navbar-brand" id="brand_esquerda" href="#">
                     <img src="img/logo.png" class="img-fluid ms-2" alt="..." width="60" height="45">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -14,7 +14,7 @@
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul class="navbar-nav mx-auto px-auto mb-lg-2">
                         <li class="nav-item">
-                            <a class="nav-link text-dark text-nowrap mt-1 fw-bolder <?php echo (basename($_SERVER['PHP_SELF']) == 'home.php') ? "disabled" : ''; ?>" href="home.php">Home</a>
+                            <a class="nav-link text-dark text-nowrap mt-1 fw-bolder <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? "disabled" : ''; ?>" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark text-nowrap mt-1 fw-bolder <?php echo (basename($_SERVER['PHP_SELF']) == 'prevencao.php')? 'disabled' : '' ?>" href="prevencao.php">Prevenção</a>
@@ -26,7 +26,7 @@
                             <a class="nav-link text-dark text-nowrap mt-1 fw-bolder <?php echo (basename($_SERVER['PHP_SELF']) == 'vacinas.php')? 'disabled' : '' ?>" href="vacinas.php">Vacinas contra COVID</a>
                         </li>
                         <li class="nav-item navbar-brand">
-                            <a class="navbar-brand" id="imagem_menu" href="home.php">
+                            <a class="navbar-brand" id="imagem_menu" href="index.php">
                                 <img src="img/logo.png" class="ms-4 img-fluid" alt="..." width="75" height="69">
                             </a>
                         </li>

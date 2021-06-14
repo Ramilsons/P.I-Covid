@@ -38,7 +38,7 @@
                         <div class="row">
                             <div class="col-12 col-sm-12 col-md-6 col-lg-6">
                                 <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start">
-                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                    <img src="img/logo.png" class="img-fluid" width="150" height="150">
                                 </div>
                                 <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
                                     <h5 class="paragrafo"> É falso que o governo do estado de são Paulo irá cortar o fornecimento de Luz entre 0hs e 6hs.</h5>
@@ -46,7 +46,7 @@
                             </div>
                             <div class="col-12 col-sm-12 col-md-6 col-lg-6">
                                 <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start">
-                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                    <img src="img/logo.png" class="img-fluid" width="150" height="150">
                                 </div>
                                 <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
                                     <h5 class="paragrafo"> É falsa a mensagem com novo cronograma de vacinação que circula no Whatsapp.</h5>
@@ -58,7 +58,7 @@
                         <div class="row mt-lg-5">
                             <div class="col-12 col-sm-12 col-md-6 col-lg-6">
                                 <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start">
-                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                    <img src="img/logo.png" class="img-fluid" width="150" height="150">
                                 </div>
                                 <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
                                     <h5 class="paragrafo"> É falso que o governo do estado de São Paulo irá prender quem não seguir o toque de restrição.</h5>
@@ -66,7 +66,7 @@
                             </div>
                             <div class="col-12 col-sm-12 col-md-6 col-lg-6">
                                 <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start">
-                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                    <img src="img/logo.png" class="img-fluid" width="150" height="150">
                                 </div>
                                 <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
                                     <h5 class="paragrafo"> É falso que o site <a href="https://VACINALA.SP.GOV.BR/">Vacinala</a> é utilizado para aplicar golpes.Ele reúne pré-cadastro, locais de vacinação e outras informações relevantes.</h5>
@@ -78,7 +78,7 @@
                         <div class="row mt-lg-5">
                             <div class="col-12 col-sm-12 col-md-6 col-lg-6 me-md-2">
                                 <div class="col-2 col-sm-2 col-md-2 col-lg-3 mt-3 mt-sm-3 mt-md-0 me-2 me-sm-2 me-md-2 me-lg-0 me-xl-0 float-start" style="margin-top: -10px;">
-                                    <img src="img/Rectangle 416_fake.png" class="img-fluid">
+                                    <img src="img/logo.png" class="img-fluid" width="150" height="150">
                                 </div>
                                 <div class="col-9 mt-4 mt-sm-4 mt-md-0 float-start">
                                     <h5 class="paragrafo">É falso que respiradores encontrados pela PM pertenciam a hospital do Estado de São Paulo.</h5>
@@ -91,10 +91,10 @@
 
             <section>
                 <div class="text-end">
-                    <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+                    <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" id="img_virus_sintomas" width="300" height="250">
                 </div>
             </section>
-            
+
             <footer>
                 <section>
                     <div class="container" id="footer_article">
