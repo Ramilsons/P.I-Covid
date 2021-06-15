@@ -37,9 +37,9 @@
                             <img src="img/rafael_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
                             <p class="nome">Rafael dos Santos</p>
                             <p class="paragrafo_1">RA: 2650832013016</p>
-                            <p class="paragrafo_1">Mini Biografia: Olá me chamo Rafael tenho 30 anos sou formado em técnico
+                            <p class="paragrafo_1">Mini Biografia: Tenho 30 anos, sou formado em técnico
                                 em química indústrial e elétrica industrial.
-                                Agora estou migrando de área cursando sistemas para internet na FATEC-SR , no momento em busca de estágio.</p>
+                                Agora estou cursando sistemas para internet na FATEC-SR , no momento em busca de estágio.</p>
                             <p class="paragrafo_1">Função: Coder</p>
                             <a class="link_pagina" href="formas_contagio.php">Link: Formas de contagio</a>
                         </div>
@@ -57,7 +57,7 @@
                             <img src="img/tatiana_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
                             <p class="nome">Tatiana Nakata Mishima</p>
                             <p class="paragrafo_1">RA: 2650832023019</p>
-                            <p class="paragrafo_1">Mini Biografia:Cursando Sistemas pela Internet na FATEC - S. R., Bacharel em Enfermagem pela F.C.M. Santa Casa de S. P., aumentando meu conhecimento em tecnologia.</p>
+                            <p class="paragrafo_1">Mini Biografia:Cursando Sistemas pela Internet na FATEC, Bacharel em Enfermagem pela F.C.M. Santa Casa de S. P., aumentando meu conhecimento em tecnologia.</p>
                             <p class="paragrafo_1">Função: Gerente,Textos e Logo</p>
                             <a class="link_pagina" href="vacinas.php">Link: Vacina Contra COVID-19</a>
                         </div>
@@ -65,7 +65,7 @@
                             <img src="img/vitor_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
                             <p class="nome">Vitor Hugo Teixeira Oliveira </p>
                             <p class="paragrafo_1">RA: 260832023028</p>
-                            <p class="paragrafo_1">Mini Biografia:Meu nome é Vitor Hugo, tenho 21 anos. Sempre gostei de tecnologia e há dois anos me encantei pela área de programação, agora busco criar sistemas que facilitem a vida das pessoas.</p>
+                            <p class="paragrafo_1">Mini Biografia:Meu nome é Vitor, tenho 21 anos. Sempre gostei de tecnologia e há dois anos me encantei pela área de programação, agora busco criar sistemas que facilitem a vida das pessoas.</p>
                             <p class="paragrafo_1">Função: Coder</p>
                             <a class="link_pagina" href="sintomas.php">Link: Sintomas</a>
                         </div>
