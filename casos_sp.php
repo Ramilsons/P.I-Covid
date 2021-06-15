@@ -34,12 +34,12 @@
                         <h3 id="fonte_grafico2">Casos acumulados de COVID-19 por data de notificação</h3>
                     </div>
                     <div class="col-6 float-end" id="imgs_grafico">
-                        <img src="img/grafico_4.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
+                        <img src="img/Total_de_casos_em_São_paulo.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
                     </div>
                 </div>
                 <div class="row mb-3" id="div_estatisca">
                     <div class="col-6 float-start" id="imgs_grafico">
-                        <img src="img/grafico_5.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
+                        <img src="img/Casos_confirmados_em_São_Paulo.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
                     </div>
                     <div class="col-6 float-end">
                         <h3 id="fonte_grafico">Casos de COVID-19 por data de notificação</h3>
@@ -47,10 +47,10 @@
                 </div>
                 <div class="row" id="div_estatisca">
                     <div class="col-6 float-start">
-                        <h3 id="fonte_grafico2">Casos acumulados de COVID-19 por data de notificação</h3>
+                        <h3 id="fonte_grafico2">Casos novos de COVID-19 por data de notificação</h3>
                     </div>
                     <div class="col-6 float-end" id="imgs_grafico">
-                        <img src="img/grafico_6.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
+                        <img src="img/Casos_novos_em_são_Paulo.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
                     </div>
                 </div>
                 <div class="row">
@@ -59,7 +59,7 @@
                     </div>
                     <div class="col-12" id="div_estatisca4">
                         <div class="col-6 float-start" id="imgs_grafico">
-                            <img src="img/grafico_7.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
+                            <img src="img/Óbitos_por_dia_em_são_paulo.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
                         </div>
                         <div class="col-6 float-end">
                             <h3 id="fonte_grafico">Óbitos de COVID-19 por data de notificação</h3>
