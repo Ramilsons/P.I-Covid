@@ -57,7 +57,7 @@
                             <img src="img/tatiana_profile.png" class="img-fluid mt-5 mt-sm-5 mt-md-5" alt="">
                             <p class="nome">Tatiana Nakata Mishima</p>
                             <p class="paragrafo_1">RA: 2650832023019</p>
-                            <p class="paragrafo_1">Mini Biografia: Estudante do curso de Sistemas pela Internet na FATEC São Roque, Bacharel em Enfermagem pela F.C.M. Santa Casa de S. P., aumentando meu conhecimento na área de tecnologia e apreciando a experiência.</p>
+                            <p class="paragrafo_1">Mini Biografia:Cursando Sistemas pela Internet na FATEC - S. R., Bacharel em Enfermagem pela F.C.M. Santa Casa de S. P., aumentando meu conhecimento em tecnologia.</p>
                             <p class="paragrafo_1">Função: Gerente,Textos e Logo</p>
                             <a class="link_pagina" href="vacinas.php">Link: Vacina Contra COVID-19</a>
                         </div>
