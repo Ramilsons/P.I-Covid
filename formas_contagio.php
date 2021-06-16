@@ -20,6 +20,7 @@
     <!-- Header php -->
     <?php include "includes/header.php"; ?>
 
+    
     <MAIN>
         <article>
             <h1>Formas de contágio</h1>
@@ -35,25 +36,25 @@
                     Essas gotículas depositam-se em objetos e superfícies ao redor da pessoa. 
                     Outras pessoas se contaminam tocando esses objetos ou superfícies e depois tocando nos olhos, nariz ou boca.  
                     fonte (https://vidasaudavel.einstein.br/coronavirus/covid-19-faq/)
-                    <p>
+                    </p> 
                   
                 </section>
-                <section>
-                    <h3>Formas de contaminação</h3>
+                
+                <h3>Formas de contaminação</h3>
                     <nav>
-                    <li> gotículas de saliva;</li>
-                    <li> espirro;  </li>
-                    <li> tosse; </li>
-                    <li> catarro.</li>
+                    <li class="li"> gotículas de saliva;</li>
+                    <li class="li"> espirro;  </li>
+                    <li class="li"> tosse; </li>
+                    <li class="li"> catarro.</li>
                     </nav>
-                </section>
-                <section>
+                
+                
                 <img src="img/contagio2.png" class="displayed" src="..." alt="...">
-                 <h3>Importante</h3>
+                <h3>Importante</h3>
 
                     <p>É importante destacar que, em alguns casos, 
                     um indivíduo contaminado pode transmitir a doença, mesmo antes de apresentar sintomas.
-                    <p>
+                   </p>
                 
             
             
@@ -65,8 +66,9 @@
         </article>
     </MAIN>
     
-    <!-- Footer php -->
-    <?php include "includes/footer.php"; ?>
+     <!-- Footer php -->
+     <?php include "includes/footer.php"; ?>
     <script src="js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>

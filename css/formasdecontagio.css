@@ -10,9 +10,14 @@ p {
     text-align: center;
 }
 
-nav {
+.li {
 
     text-align: center;
+}
+
+nav {
+
+    
     margin-top: 40px;
 }
 
@@ -29,4 +34,3 @@ IMG.displayed
     margin-left: auto;
     margin-right: auto 
 }
-
