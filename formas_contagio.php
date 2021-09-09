@@ -23,13 +23,13 @@
     
     <MAIN>
         <article>
-            <h1>Formas de contágio</h1>
+            <a class="link_principal" href="#formas"><h1>Formas de contágio</h1></a>
             <div class="contagio-1">
                 <img src="img/contagio1.png" class="displayed" alt="O que você precisa saber e fazer. Como previnir o contágio: Lave as mãos com água e sabão ou use álcool em gel, cubra o nariz e boca ao espirrar ou tossir, evite aglomerações, mantenha os ambientes bem ventilados, não compartilhe objetos pessoais.">
             </div>
             <section>
                 <section>
-                <h2>Transmissão</h2>
+                <h2 id="formas">Transmissão</h2>
                     <p>O novo coronavírus, que causa a COVID-19, pode ser transmitido entre pessoas. 
                     A doença pode se espalhar por meio de pequenas gotículas do nariz ou da boca – 
                     expelidas por uma pessoa com COVID-19 quando tosse ou espirra, por exemplo. 
