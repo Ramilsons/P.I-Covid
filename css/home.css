@@ -82,6 +82,7 @@
 }
 
 #link_home{
+    float: right;
     font-family: 'Roboto', sans-serif !important; 
     font-size: 1.2em;
     color: #297A83 !important;
