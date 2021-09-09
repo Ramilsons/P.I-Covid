@@ -130,14 +130,11 @@
                         <a target="_blank" href="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2021/06/06/hospitais-lotados-e-251-na-fila-por-leitos-faz-ms-mandar-pacientes-graves-com-covid-19-para-sp.ghtml" title="Hospitais lotados e 251 na fila por leitos fazem MS mandar pacientes graves com Covid-19 para SP "><h5 id="titulo_noticia">UOL | Hospitais lotados e 251 na fila por leitos fazem MS...</h5>
                         <p id="subtitulo_noticia">Na semana passada, o estado transferiu 9 pacientes para...</p>
                         <p id="data_home">06/06/2021</p>
+                        <a id="link_home" target="_blank" href="https://www.google.com/search?client=firefox-b-d&q=noticias+covid">Ver tudo</a>
                     </div>
                 </div>
             </section>
-            <div class="text-end">
-                <a id="link_home" target="_blank" href="https://www.google.com/search?client=firefox-b-d&q=noticias+covid">Ver tudo</a>
             </div>
-
-        </div>
     </aside>
 
     <section>
