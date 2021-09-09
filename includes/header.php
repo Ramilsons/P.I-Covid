@@ -6,7 +6,7 @@
         <nav class="navbar navbar-expand-xl navbar-light">
             <div class="container-fluid">
                 <a href="index.php" class="navbar-brand" id="brand_esquerda" href="#">
-                    <img src="img/logo.png" class="img-fluid ms-2" alt="..." width="60" height="45">
+                    <img src="img/logo.png" class="img-fluid ms-2" alt="Logo do grupo. Vírus na cor vermelha sendo atravessado por um pedaço de madeira rodeada por uma cobra  na cor verde" width="60" height="45">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>

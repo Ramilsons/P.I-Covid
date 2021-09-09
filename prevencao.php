@@ -27,17 +27,17 @@
                     <img src="./img/icon1-prev.png" alt="Mãos sendo lavadas">
                     <h3>Lave as mãos constantemente com água e sabão ou álcool em gel</h3>
                 </section>
-                <section class="col-sm-12 col-lg-5 topico" alt="Dois bonecos e uma seta abaixo indicando distanciamento">
+                <section class="col-sm-12 col-lg-5 topico">
                     <h3>Mantenha uma distância mínima de 1 metro de outras pessoas</h3>
-                    <img src="./img/icon2.png">
+                    <img src="./img/icon2.png" alt="Dois bonecos e uma seta abaixo indicando distanciamento">
                 </section>
                 <section class="col-sm-12 col-lg-5 topico">
                     <img src="./img/icon3.png" alt="Máscara de proteção">
                     <h3>Use máscara</h3>
                 </section>
-                <section class="col-sm-12 col-lg-5 topico" alt="Casa na cor verde">
+                <section class="col-sm-12 col-lg-5 topico">
                     <h3>Fique em casa, se possível</h3>
-                    <img src="./img/icon4.png">
+                    <img src="./img/icon4.png" alt="Casa na cor verde">
                 </section>
             </div>
             <div class="row">

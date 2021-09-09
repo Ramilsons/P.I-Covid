@@ -39,7 +39,7 @@
                     <div class="row mb-5" id="cards">
                         <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                             <div class="card" id="card">
-                                <img src="img/Febre.png" class="card-img-top img-fluid" alt="...">
+                                <img src="img/Febre.png" class="card-img-top img-fluid" alt="Personagem mulher, de máscara, usando camisa vermelha com um termometro ao lado na cor vermelha. A personagem está suando.">
                                 <div class="card-body">
                                     <p class="card-text" id="p_card">A febre é um dos primeiros sintomas da Covid-19, junto com tosse. Normalmente aparece durante 2 a 14 dias.</p>
                                 </div>
@@ -47,7 +47,7 @@
                         </div>
                         <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                             <div class="card" id="card">
-                                <img src="img/Tosse Seca.png" class="card-img-top img-fluid" alt="...">
+                                <img src="img/Tosse Seca.png" class="card-img-top img-fluid" alt="Personagem mulher, de máscara, usando camisa vermelha. A personagem está com a mão tapando a boca enquanto tosse.">
                                 <div class="card-body">
                                     <p class="card-text" id="p_card">A tosse vem acompanhada de febre geralmente. Esse sintoma pode se agravar ao longo da doença, causando desconforto.</p>
                                 </div>
@@ -55,7 +55,7 @@
                         </div>
                         <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                             <div class="card" id="card">
-                                <img src="img/Fadiga.png" class="card-img-top img-fluid" alt="...">
+                                <img src="img/Fadiga.png" class="card-img-top img-fluid" alt="Personagem mulher, de máscara, usando camisa vermelha. A personagem está contraída e olhando para baixo.">
                                 <div class="card-body">
                                     <p class="card-text" id="p_card">Após a progressão da doença normalmente a fadiga começa a aparecer, podendo aumentar bastante em casos graves.</p>
                                 </div>
@@ -63,7 +63,7 @@
                         </div>
                         <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                             <div class="card" id="card">
-                                <img src="img/Falta de ar.png" class="card-img-top img-fluid" alt="...">
+                                <img src="img/Falta de ar.png" class="card-img-top img-fluid" alt="Personagem mulher, de máscara, usando camisa vermelha. A personagem está com as duas mãos na altura da boca e com os olhos fechados.">
                                 <div class="card-body">
                                     <p class="card-text" id="p_card">A falta de ar é o sintoma mais conhecido da Covid-19. Ele estará muito presente em casos graves e moderados. </p>
                                 </div>

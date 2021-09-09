@@ -25,7 +25,7 @@
         <article>
             <h1>Formas de contágio</h1>
             <div class="contagio-1">
-                <img src="img/contagio1.png" class="displayed" src="..." alt="...">
+                <img src="img/contagio1.png" class="displayed" alt="O que você precisa saber e fazer. Como previnir o contágio: Lave as mãos com água e sabão ou use álcool em gel, cubra o nariz e boca ao espirrar ou tossir, evite aglomerações, mantenha os ambientes bem ventilados, não compartilhe objetos pessoais.">
             </div>
             <section>
                 <section>
@@ -49,7 +49,7 @@
                     </nav>
                 
                 
-                <img src="img/contagio2.png" class="displayed" src="..." alt="...">
+                <img src="img/contagio2.png" class="displayed" src="" alt="Quatro cenas com uma personagem mulher. A primeira cena mostra a personagem tossindo e as gotículas de saliva sendo lançadas ao ar. A segunda cena está representando o catarro como fator de transmissão. A terceira cena mostra a personagem espirrando. A quarta a personagem está soltando catarro">
                 <h3>Importante</h3>
 
                     <p>É importante destacar que, em alguns casos, 
@@ -59,7 +59,7 @@
             
             
                 <section>
-                    <img src="img/contagio3.png" class="displayed" src="..." alt="..."><br>
+                    <img src="img/contagio3.png" class="displayed" src="..." alt="Mulher cobrindo nariz e boca com antebraço"><br>
                 </section>
                 
             </section>
