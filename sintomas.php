@@ -55,7 +55,7 @@
                         </div>
                         <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-3 col-xxl-3" id="card_1">
                             <div class="card" id="card">
-                                <img src="img/Fadiga.png" class="card-img-top img-fluid" alt="Personagem mulher, de máscara, usando camisa vermelha. A personagem está contraída e olhando para baixo.">
+                                <img src="img/Fadiga.png" class="card-img-top img-fluid" alt="Personagem mulher, de máscara, usando camisa vermelha. A personagem aparenta estar com fadiga.">
                                 <div class="card-body">
                                     <p class="card-text" id="p_card">Após a progressão da doença normalmente a fadiga começa a aparecer, podendo aumentar bastante em casos graves.</p>
                                 </div>

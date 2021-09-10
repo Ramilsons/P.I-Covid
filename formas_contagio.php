@@ -25,7 +25,7 @@
         <article>
             <a class="link_principal" href="#formas"><h1>Formas de contágio</h1></a>
             <div class="contagio-1">
-                <img src="img/contagio1.png" class="displayed" alt="O que você precisa saber e fazer. Como previnir o contágio: Lave as mãos com água e sabão ou use álcool em gel, cubra o nariz e boca ao espirrar ou tossir, evite aglomerações, mantenha os ambientes bem ventilados, não compartilhe objetos pessoais.">
+                <img src="img/contagio1.png" class="displayed" alt="Como prevenir o contágio,Lave as mãos com água e sabão ou use álcool em gel, cubra o nariz e a boca ao espirrar ou tossir, evite aglomerações, mantenha os ambientes bem ventilados, não compartilhe objetos pessoais">
             </div>
             <section>
                 <section>
@@ -59,7 +59,7 @@
             
             
                 <section>
-                    <img src="img/contagio3.png" class="displayed" src="..." alt="Mulher cobrindo nariz e boca com antebraço"><br>
+                    <img src="img/contagio3.png" class="displayed" src="..." alt="Lembre-se sempre cubra o nariz e a boca ao espirrar ou tossir"><br>
                 </section>
                 
             </section>

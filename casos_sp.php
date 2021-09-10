@@ -34,12 +34,12 @@
                         <h3 id="fonte_grafico2">Casos acumulados de COVID-19 por data de notificação</h3>
                     </div>
                     <div class="col-6 float-end" id="imgs_grafico">
-                        <img src="img/Total_de_casos_em_São_paulo.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
+                        <img src="img/Total_de_casos_em_São_paulo.png" class="img-fluid" alt="Gráfico com o total de casos em são paulo, em 5 de abril de 2020 encontramos um total de 4.620 casos de COVID em são paulo e em 2 de junho de 2021 encontramos um total de 3314631 casos de COVID em são paulo">
                     </div>
                 </div>
                 <div class="row mb-3" id="div_estatisca">
                     <div class="col-6 float-start" id="imgs_grafico">
-                        <img src="img/Casos_confirmados_em_São_Paulo.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
+                        <img src="img/Casos_confirmados_em_São_Paulo.png" class="img-fluid" alt="Gráfico que mostra o total de casos confirmados em são paulo apartir de 200 casos, passados 100 dias temos 229475 casos confirmados, passados 200 dias temos 991725 casos confirmados,passados 300 dias temos 1540513 caos confirmados, passados 400 dias temos 2750300 caos confirmados e depois de 500 dias temos 4015426 casos confirmados.">
                     </div>
                     <div class="col-6 float-end">
                         <h3 id="fonte_grafico">Casos de COVID-19 por data de notificação</h3>
@@ -50,7 +50,7 @@
                         <h3 id="fonte_grafico2">Casos novos de COVID-19 por data de notificação</h3>
                     </div>
                     <div class="col-6 float-end" id="imgs_grafico">
-                        <img src="img/Casos_novos_em_são_Paulo.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
+                        <img src="img/Casos_novos_em_são_Paulo.png" class="img-fluid" alt="Gráfico que mostra novos casos no estado de são paulo por dia, em 5 de abril de 2020 tivemos um total de 542 casos novos, em 14 de junho de 2021 tivemos um total de 5306 casos novos, pelo gráfico verificamos que em 1 de abril de 2021 tivemos o maior pico ficando com 26567 casos novos neste dia.">
                     </div>
                 </div>
                 <div class="row">
@@ -59,7 +59,7 @@
                     </div>
                     <div class="col-12" id="div_estatisca4">
                         <div class="col-6 float-start" id="imgs_grafico">
-                            <img src="img/Óbitos_por_dia_em_são_paulo.png" class="img-fluid" alt="Gráfico feito pela nossa equipe para ilustrar informações da COVID-19">
+                            <img src="img/Óbitos_por_dia_em_são_paulo.png" class="img-fluid" alt="Gráfico que mostra óbitos por COVID-19 no estado de são paulo por dia, em 3 de abril de 2020 tivemos um total de 11 óbitos, em 14 de junho de 2021 tivemos um total de 92 óbitos, pelo gráfico verificamos que em 6 de abril de 2021 tivemos o maior pico ficando com 1389 óbitos neste dia">
                         </div>
                         <div class="col-6 float-end">
                             <h3 id="fonte_grafico">Óbitos de COVID-19 por data de notificação</h3>
