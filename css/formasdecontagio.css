@@ -34,3 +34,8 @@ IMG.displayed
     margin-left: auto;
     margin-right: auto 
 }
+
+ul.list
+{
+    list-style-type: none;
+}

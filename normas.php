@@ -35,50 +35,50 @@
                     </div>
                     <section>
                         <div class="text-start">
-                            <img src="img/imagem_normas.png" class="img-fluid text-start" id="imagem1_normas" alt="">
+                            <img src="img/imagem_normas.png" class="img-fluid text-start" id="imagem1_normas">
                         </div>
                         <div class="row">
-                            <h3 class="titulo_norma">1.Do objeto</h3>
+                            <h3 class="titulo_norma">1. Do objeto</h3>
                             <h4 class="paragrafo_norma">A plataforma caracteriza-se pela prestação de serviço de informações sobre COVID-19.</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4">
                         </div>
                     </section>
                     <section>
                         <div class="text-end">
-                            <img src="img/imagem_normas.png" class="img-fluid float-end" id="imagem2_normas" alt="">
+                            <img src="img/imagem_normas.png" class="img-fluid float-end" id="imagem2_normas">
                         </div>
                         <div class="row mt-4">
-                            <h3 class="titulo_norma">2.Da aceitação</h3>
+                            <h3 class="titulo_norma">2. Da aceitação</h3>
                             <h4 class="paragrafo_norma">Ao utilizar a plataforma o usuário aceita integralmente as presentes normas e compromete-se a observá-las, sob o risco de aplicação das penalidades cabíveis.</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4">
                         </div>
                     </section>
                     <section>
                     <div class="text-start">
-                            <img src="img/imagem_normas.png" class="img-fluid float-start" id="imagem3_normas" alt="">
+                            <img src="img/imagem_normas.png" class="img-fluid float-start" id="imagem3_normas">
                         </div>
                         <div class="row mt-4">
-                            <h3 class="titulo_norma">3.Do acesso dos Usuários</h3>
+                            <h3 class="titulo_norma">3. Do acesso dos Usuários</h3>
                             <h4 class="paragrafo_norma">Serão utilizadas todas as soluções técnicas à disposição do responsável pela plataforma para permitir o acesso 24 (vinte e quatro) horas por dia.No entanto, a navegação na plataforma ou em alguma de suas páginas poderá ser interrompida , limitada ou suspensa para atualizações, modificações ou qualquer ação necessária ao seu bom funcionamento.</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4">
                         </div>
                     </section>
                     <section>
                     <div class="text-end">
-                            <img src="img/imagem_normas.png" class="img-fluid float-end" id="imagem2_normas" alt="">
+                            <img src="img/imagem_normas.png" class="img-fluid float-end" id="imagem2_normas">
                         </div>
                         <div class="row mt-4">
-                            <h3 class="titulo_norma">4.Do Suporte</h3>
+                            <h3 class="titulo_norma">4. Do Suporte</h3>
                             <h4 class="paragrafo_norma">Em caso de qualquer dúvida, sugestão ou problema com a utilização da plataforma, o usuário deverá entrar em contato com o suporte através do e-mail:Sistemas@fatecsaoroque.sp.gov.br</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4">
                         </div>
                     </section>
                     <section>
                     <div class="text-start">
-                            <img src="img/imagem_normas.png" class="img-fluid float-start" id="imagem3_normas" alt="">
+                            <img src="img/imagem_normas.png" class="img-fluid float-start" id="imagem3_normas">
                         </div>
                         <div class="row mt-4">
-                            <h3 class="titulo_norma">5.Das Responsabilidades</h3>
+                            <h3 class="titulo_norma">5. Das Responsabilidades</h3>
                             <h4 class="paragrafo_norma">É de responsábilidade do usuário:
                                 a) a correta utilização dos serviços prestados;
                                 b)pelo cumprimento e respeito do conjunto de regras disposto nesse Termo de Condições de Uso, na respectiva Política de Privacidade e na legislação nacional e internacional.
@@ -87,15 +87,15 @@
                                 a) indicar as características dos serviços;
                                 b)as informações que foram por ele divulgadas;
                                 c) os conteúdos ou atividades ilicítas praticadas através da sua plataforma;</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4">
                         </div>
                     </section>
                     <section>
                         <div class="text-end">
-                            <img src="img/imagem_normas.png" class="img-fluid float-end"  id="imagem2_normas" alt="">
+                            <img src="img/imagem_normas.png" class="img-fluid float-end"  id="imagem2_normas">
                         </div>
                         <div class="row mt-4 mb-5">
-                            <h3 class="titulo_norma">6.Dos direitos autorais</h3>
+                            <h3 class="titulo_norma">6. Dos direitos autorais</h3>
                             <h4 class="paragrafo_norma">O presente Termo de Uso concede aos usuários para acessar e fazer uso da plataforma e dos serviços por ela disponibilizados.
                                 A estrutura do site, as marcas,logotipos, nomes comerciais,layouts, gráficos e design de interface, imagens, ilustrações, fotografias, apresentações, vídeos, conteúdos escritos,banco de dados e quaisquer outra informação e direitos de propriedades intelectual da razão social XXXXXX, observados os termos da Lei da propriedades industrial (Lei nº9.279/96), Lei de direitos autorais (Leinº9.610/98) e Lei do Software (Lei nº9.609/98),estão devidamente reservados.
                                 Esses Termos de Uso não cede ou transfere ao usuário qualquer direito, de modo que o acesso não gera qualquer direito de propriedade intelectual ao usuário.</h4>
@@ -115,7 +115,7 @@
                 <div class="container">
                     <div class="row">
                         <h3 class="p2">Referência Bibliográfica
-                            [Modelo] Termos e condições para site ou app.Publicado por Pensador Jurídico, 2021.Disponível em:
+                            [Modelo] Termos e condições para site ou app. Publicado por Pensador Jurídico, 2021. Disponível em:
                             <a href="https://jusbrasilmodelos.jusbrasil.com.br/modelos-pecas/784909844/modelo-termos-e-condicoes-para-site-ou-app.Acesso">JusBrasil</a> em :05 de maio de 2021.
                         </h3>
                     </div>
