@@ -41,7 +41,7 @@
                 <div class="container" id="div_grafico">
                     <div class="row mb-3" id="div_estatisca">
                         <div class="col-6 float-start" id="imgs_grafico">
-                            <img src="img/estatistica_casos_novos.png" class="img-fluid" alt="">
+                            <img src="img/estatistica_casos_novos.png" class="img-fluid" alt="Gráfico com estatística de casos novos por data de notificação, em 16 de junho de 2020 temos 32817 casos novos, em 14 de junho de 2021 temos 39846 casos novos , através do gráfico verificamos um pico maior em 25 de março de 2021 com 100158 casos novos notificados.">
                         </div>
                         <div class="col-6 float-end">
                             <h3 id="fonte_grafico">Casos novos de COVID-19 por data de notificação</h3>
@@ -52,12 +52,12 @@
                             <h3 id="fonte_grafico2">Casos acumulados de COVID-19 por data de notificação</h3>
                         </div>
                         <div class="col-6 float-end" id="imgs_grafico">
-                            <img src="img/estatistica_casos_acumulados.png" class="img-fluid" alt="">
+                            <img src="img/estatistica_casos_acumulados.png" class="img-fluid" alt="Gráfico com estatística de casos acumulados por data de notificação, em 29 de fevereiro de 2020 temos 5 casos acumulados, em 14 de junho de 2021 temos 17452612 casos acumulados.">
                         </div>
                     </div>
                     <div class="row" id="div_estatisca">
                         <div class="col-6 float-start" id="imgs_grafico">
-                            <img src="img/estatistica_obitos.png" class="img-fluid" alt="">
+                            <img src="img/estatistica_obitos.png" class="img-fluid" alt="Gráficos com estatística de óbitos por data de notificação, em 16 de junho de 2020 temos 1513 óbitos notificados, em 14 de junho de 2021 temos 827 óbitos notificados , através do gráfico verificamos um pico maior em 9 de abril de 2021 com 3829 óbitos notificados.">
                         </div>
                         <div class="col-6 float-end">
                             <h3 id="fonte_grafico">Óbitos de COVID-19 por data de notificação</h3>
@@ -67,7 +67,7 @@
             </section>
             <section>
                 <div class="text-end">
-                    <img src="img/virus_gif.gif" class="img-fluid" width="300" height="250" id="img_virus_sintomas" alt="ícone de vírus na cor vermelha, que se desloca na diagonal">
+                    <img src="img/virus_gif.gif" class="img-fluid" alt="GIF do vírus, um dos requisitos do projeto" width="300" height="250" id="img_virus_sintomas">
                 </div>
             </section>
         </article>
