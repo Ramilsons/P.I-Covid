@@ -26,7 +26,7 @@
             <div class="row" id="div_vacinaCOVID">
                 <a class="link_principal" href="#formas"><h1 class="titulo_principal">Vacina Contra a COVID-19</h1></a>
                 <h3 class="título secundário">  A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em
-                    humanos.Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o
+                    humanos. Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o
                     agente causador da COVID-19.</h3>
 
             </div>

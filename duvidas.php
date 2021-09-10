@@ -69,7 +69,7 @@
             <div class="container">
                 <div class="row" id="div_final_duvidas">
                     <p class="p1">Referência Bibliográfica
-                        Perguntas e respostas: tire suas dúvidas sobre o novo coronavírus.Do Portal do Governo, 2021.Disponível em: <a target="_blank" href="https://www.saopaulo.sp.gov.br/spnoticias/perguntas-e-respostas-tire-suas-duvidas-sobre-coronavirus/">Acesse a Referência</a> Acesso em: 05 de maio de 2021.</p>
+                        Perguntas e respostas: tire suas dúvidas sobre o novo coronavírus. Do Portal do Governo, 2021. Disponível em: <a target="_blank" href="https://www.saopaulo.sp.gov.br/spnoticias/perguntas-e-respostas-tire-suas-duvidas-sobre-coronavirus/">Acesse a Referência</a> Acesso em: 05 de maio de 2021.</p>
                 </div>
             </div>
         </section>
