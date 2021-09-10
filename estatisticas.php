@@ -27,13 +27,13 @@
             <section>
                 <div class="row mt-5 mb-5" id="imgs_estastiscas">
                     <div class="col-4">
-                        <img src="img/estatisca_1.png" class="img-fluid" alt="">
+                        <img src="img/estatisca_1.png" class="img-fluid" alt="Casos recuperados 14.097.287. Em acompanhamento 1.094.437">
                     </div>
                     <div class="col-4">
-                        <img src="img/estatisca_2.png" class="img-fluid" alt="">
+                        <img src="img/estatisca_2.png" class="img-fluid" alt="Casos confirmados: 15.627.475 acumulado, 40.941 casos novos, 7436.4 incidência.">
                     </div>
                     <div class="col-4">
-                        <img src="img/estatisca_3.png" class="img-fluid" alt="">
+                        <img src="img/estatisca_3.png" class="img-fluid" alt="óbitos confirmados: 435.751 óbitos acumulados, 1.036 casos novos, 2.8 por cento de letalidade e 207.4 mortalidades ">
                     </div>
                 </div>
             </section>
