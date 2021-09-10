@@ -41,12 +41,12 @@
                 </section>
                 
                 <h3>Formas de contaminação</h3>
-                    <nav>
-                    <li class="li"> gotículas de saliva;</li>
-                    <li class="li"> espirro;  </li>
-                    <li class="li"> tosse; </li>
-                    <li class="li"> catarro.</li>
-                    </nav>
+                    <ul>
+                        <li class="li"> gotículas de saliva;</li>
+                        <li class="li"> espirro;  </li>
+                        <li class="li"> tosse; </li>
+                        <li class="li"> catarro.</li>
+                    </ul>
                 
                 
                 <img src="img/contagio2.png" class="displayed" src="" alt="Quatro cenas com uma personagem mulher. A primeira cena mostra a personagem tossindo e as gotículas de saliva sendo lançadas ao ar. A segunda cena está representando o catarro como fator de transmissão. A terceira cena mostra a personagem espirrando. A quarta a personagem está soltando catarro">

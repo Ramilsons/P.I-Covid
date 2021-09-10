@@ -26,7 +26,7 @@
             <div class="row" id="div_vacinaCOVID">
                 <a class="link_principal" href="#formas"><h1 class="titulo_principal">Vacina Contra a COVID-19</h1></a>
                 <h3 class="título secundário">  A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em
-                    humanos.Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o
+                    humanos. Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o
                     agente causador da COVID-19.</h3>
 
             </div>
@@ -35,7 +35,7 @@
 
                 <div class="row mb-3" id="div_vacina">
                     <div class="col-6 float-start" id="imgs_vacina">
-                        <img src="./img/Ellipse 7.png" class="img-fluid" alt="vírus laboratório" id="imgvl" />
+                        <img src="./img/Ellipse 7.png" class="img-fluid" alt="profissional no laboratório, com roupas de proteção e luvas, conduzindo uma pesquisa" id="imgvl" />
                     </div>
                     <div class="col-6 float-end" id="formas">
                         <h2 id="fonte1">1.O vírus é isolado em laboratório.</h2>
@@ -47,11 +47,11 @@
                         </div>
 
                         <div class="col-6 float-end" id="imgs_vacina">
-                            <img src="./img/Ellipse 4.png" class="img-fluid" alt="virus" id="imgv" />
+                            <img src="./img/Ellipse 4.png" class="img-fluid" alt="Imagem de um vírus na cor vermelha" id="imgv" />
                         </div>
                         <div class="row mb-3" id="div_vacina">
                             <div class="col-6 float-start" id="imgs_vacina">
-                                <img src="./img/Ellipse 8.png" class="img-fluid" alt="cientista" id="imgc" />
+                                <img src="./img/Ellipse 8.png" class="img-fluid" alt="cientista, com roupas de proteção segurando um recipiente com um líquido na cor marrom" id="imgc" />
                             </div>
                             <div class="col-6 float-end">
                                 <h2 id="fonte1">3. Os vírus são coletados e inativados por meio de procedimentos químicos para não causarem infecção.</h2>
@@ -62,11 +62,11 @@
                                     <h2 id="fonte2"> 4. Uma substância chamada adjuvante é adicionada aos vírus inativados e purificados para formular a vacina.</h2>
                                 </div>
                                 <div class="col-6 float-end" id="imgs_vacina">
-                                    <img src="./img/Ellipse 5.png" class="img-fluid" alt="vírus seringa" id="imgvs" />
+                                    <img src="./img/Ellipse 5.png" class="img-fluid" alt="Seringa sendo injetada numa figura representando o vírus" id="imgvs" />
                                 </div>
                                 <div class="col-12" id="div_vacina2">
                                     <div class="col-6 float-start" id="imgs_vacina">
-                                        <img src="./img/Ellipse 6.png" class="img-fluid" alt="vacina" id="imgva" />
+                                        <img src="./img/Ellipse 6.png" class="img-fluid" alt="Seringa sendo abastecida com a vacina" id="imgva" />
                                     </div>
                                     <div class="col-6 float-end">
                                         <h2 id="fonte1">
@@ -83,7 +83,7 @@
     </MAIN>
     <section>
         <div class="text-end">
-            <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas" />
+            <img src="img/virus_gif.gif" class="img-fluid" alt="ícone de vírus na cor vermelha, que se desloca na diagonal" width="300" height="250" id="img_virus_sintomas" />
         </div>
     </section>
     <aside>
@@ -107,16 +107,16 @@
             </p>
             <p class="p4">
                 Referência Bibliográfica:
-                Como são as vacinas desenvolvidas? World Health Organization, 2021.Disponível
-                em:https://www.who.int/pt/news-room/feature-stories/detail/how-are-vaccines-developed .Acesso em: 27 de
+                Como são as vacinas desenvolvidas? World Health Organization, 2021. Disponível
+                em: https://www.who.int/pt/news-room/feature-stories/detail/how-are-vaccines-developed. Acesso em: 27 de
                 abril de
                 2021.
             </p>
             <p class="p5">
-                VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/. Acesso em: 27 de abril de 2021.
+                VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021. Disponível em: https://www.saopaulo.sp.gov.br/coronavirus/vacina/. Acesso em: 27 de abril de 2021.
             </p>
             <p class="p6">
-                Unsplash.Photos for everyone,2021.Disponível em:https://unsplash.com/s/photos/covid.Acesso em: 21 de maio de 2021.
+                Unsplash Photos for everyone,2021. Disponível em: https://unsplash.com/s/photos/covid. Acesso em: 21 de maio de 2021.
             </p>
         </div>
     </aside>

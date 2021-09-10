@@ -35,47 +35,47 @@
                     </div>
                     <section>
                         <div class="text-start">
-                            <img src="img/imagem_normas.png" class="img-fluid text-start" id="imagem1_normas" alt="Retângulo elaborado no mockup">
+                            <img src="img/imagem_normas.png" class="img-fluid text-start" id="imagem1_normas" alt="">
                         </div>
                         <div class="row">
                             <h3 class="titulo_norma">1.Do objeto</h3>
                             <h4 class="paragrafo_norma">A plataforma caracteriza-se pela prestação de serviço de informações sobre COVID-19.</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="Linha elaborada no mockup">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
                         </div>
                     </section>
                     <section>
                         <div class="text-end">
-                            <img src="img/imagem_normas.png" class="img-fluid float-end" id="imagem2_normas" alt="Retângulo elaborado no mockup">
+                            <img src="img/imagem_normas.png" class="img-fluid float-end" id="imagem2_normas" alt="">
                         </div>
                         <div class="row mt-4">
                             <h3 class="titulo_norma">2.Da aceitação</h3>
                             <h4 class="paragrafo_norma">Ao utilizar a plataforma o usuário aceita integralmente as presentes normas e compromete-se a observá-las, sob o risco de aplicação das penalidades cabíveis.</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="Linha elaborada no mockup">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
                         </div>
                     </section>
                     <section>
                     <div class="text-start">
-                            <img src="img/imagem_normas.png" class="img-fluid float-start" id="imagem3_normas" alt="Retângulo elaborado no mockup">
+                            <img src="img/imagem_normas.png" class="img-fluid float-start" id="imagem3_normas" alt="">
                         </div>
                         <div class="row mt-4">
                             <h3 class="titulo_norma">3.Do acesso dos Usuários</h3>
                             <h4 class="paragrafo_norma">Serão utilizadas todas as soluções técnicas à disposição do responsável pela plataforma para permitir o acesso 24 (vinte e quatro) horas por dia.No entanto, a navegação na plataforma ou em alguma de suas páginas poderá ser interrompida , limitada ou suspensa para atualizações, modificações ou qualquer ação necessária ao seu bom funcionamento.</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="Linha elaborada no mockup">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
                         </div>
                     </section>
                     <section>
                     <div class="text-end">
-                            <img src="img/imagem_normas.png" class="img-fluid float-end" id="imagem2_normas" alt="Retângulo elaborado no mockup">
+                            <img src="img/imagem_normas.png" class="img-fluid float-end" id="imagem2_normas" alt="">
                         </div>
                         <div class="row mt-4">
                             <h3 class="titulo_norma">4.Do Suporte</h3>
                             <h4 class="paragrafo_norma">Em caso de qualquer dúvida, sugestão ou problema com a utilização da plataforma, o usuário deverá entrar em contato com o suporte através do e-mail:Sistemas@fatecsaoroque.sp.gov.br</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="Linha elaborada no mockup">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
                         </div>
                     </section>
                     <section>
                     <div class="text-start">
-                            <img src="img/imagem_normas.png" class="img-fluid float-start" id="imagem3_normas" alt="Retângulo elaborado no mockup">
+                            <img src="img/imagem_normas.png" class="img-fluid float-start" id="imagem3_normas" alt="">
                         </div>
                         <div class="row mt-4">
                             <h3 class="titulo_norma">5.Das Responsabilidades</h3>
@@ -87,12 +87,12 @@
                                 a) indicar as características dos serviços;
                                 b)as informações que foram por ele divulgadas;
                                 c) os conteúdos ou atividades ilicítas praticadas através da sua plataforma;</h4>
-                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="Linha elaborada no mockup">
+                            <img src="img/linha_normas.png" id="linha_norma" class="img-fluid text-center mt-4" alt="">
                         </div>
                     </section>
                     <section>
                         <div class="text-end">
-                            <img src="img/imagem_normas.png" class="img-fluid float-end"  id="imagem2_normas" alt="Retângulo elaborado no mockup">
+                            <img src="img/imagem_normas.png" class="img-fluid float-end"  id="imagem2_normas" alt="">
                         </div>
                         <div class="row mt-4 mb-5">
                             <h3 class="titulo_norma">6.Dos direitos autorais</h3>
@@ -107,7 +107,7 @@
         </article>
         <section>
             <div class="text-end">
-                <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas" alt="GIF do vírus, um dos requisitos do projeto">
+                <img src="img/virus_gif.gif" class="img-fluid" alt="ícone de vírus na cor vermelha, que se desloca na diagonal" width="300" height="250" id="img_virus_sintomas" alt="GIF do vírus, um dos requisitos do projeto">
             </div>
         </section>
         <aside>

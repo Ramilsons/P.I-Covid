@@ -67,7 +67,7 @@
             </section>
             <section>
                 <div class="text-end">
-                    <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+                    <img src="img/virus_gif.gif" class="img-fluid" width="300" height="250" id="img_virus_sintomas" alt="ícone de vírus na cor vermelha, que se desloca na diagonal">
                 </div>
             </section>
         </article>

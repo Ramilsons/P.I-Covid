@@ -21,7 +21,7 @@
     <?php include "includes/header.php"; ?>
     <main>
         <article>
-            <img src="img/banner_contato.webp" class="img-fluid" id="imgbanner" alt="Banner da Página Contato ">
+            <img src="img/banner_contato.webp" class="img-fluid" id="imgbanner" alt="Médicos e enfermeiros com seus uniformes de trabalho, fazendo coração com a mão em uma rua.">
             <section>
                 <div class="row" id="div_icons">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-4 mt-3 text-center">
