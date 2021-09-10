@@ -22,7 +22,7 @@
     <MAIN>
         <article>
             <div class="row" id="div_dados">
-                <h1 class="titulo_principal">Estatística COVID-19 no Brasil</h1>
+            <a class="link_principal" href="#imgs_grafico"><h1 class="titulo_principal">Estatística COVID-19 no Brasil</h1></a>
             </div>
             <section>
                 <div class="row mt-5 mb-5" id="imgs_estastiscas">
