@@ -22,7 +22,7 @@
     <MAIN>
         <article>
             <div class="row" id="div_dados">
-                <h1 class="titulo_principal">Estatística COVID-19 no estado de São Paulo</h1>
+            <a class="link_principal" href="#div_estatisca"><h1 class="titulo_principal">Estatística COVID-19 no estado de São Paulo</h1></a>
             </div>
             <div class="row mt-5" id="imgs_estastiscas">
                 <img src="img/casos_banner.png" class="img-fluid" alt="Banner da Página Casos em São Paulo. Texto no centro contendo: Boletim completo de São Paulo">
