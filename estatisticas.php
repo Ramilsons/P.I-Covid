@@ -67,7 +67,7 @@
             </section>
             <section>
                 <div class="text-end">
-                    <img src="img/virus_gif.gif" class="img-fluid" alt="Imagem de Virús" width="300" height="250" id="img_virus_sintomas">
+                    <img src="img/virus_gif.gif" class="img-fluid" alt="GIF do vírus, um dos requisitos do projeto" width="300" height="250" id="img_virus_sintomas">
                 </div>
             </section>
         </article>
