@@ -7,44 +7,44 @@
                         <div class="navbar-collapse">
                             <ul class="me-auto mb-2 mb-lg-0 col-5" id="order">
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="prevencao.php">Prevenção</a>
+                                    <a class="nav-link" id="link_menu_footer" href="prevencao.php">Prevenção</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="sintomas.php">Sintomas</a>
+                                    <a class="nav-link" id="link_menu_footer" href="sintomas.php">Sintomas</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="formas_contagio.php">Formas de Contágio</a>
+                                    <a class="nav-link" id="link_menu_footer" href="formas_contagio.php">Formas de Contágio</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="vacinas.php">Vacina Contra a COVID-19</a>
+                                    <a class="nav-link" id="link_menu_footer" href="vacinas.php">Vacina Contra a COVID-19</a>
                                 </li>
                             </ul>
                             <ul class="me-auto mb-2 mb-lg-0 col-5" id="order">
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="fases_contencao.php">Fases de Contenção</a>
+                                    <a class="nav-link" id="link_menu_footer" href="fases_contencao.php">Fases de Contenção</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="estatisticas.php">Estatística</a>
+                                    <a class="nav-link" id="link_menu_footer" href="estatisticas.php">Estatística</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="casos_sp.php">Casos em São Paulo</a>
+                                    <a class="nav-link" id="link_menu_footer" href="casos_sp.php">Casos em São Paulo</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link" id="link_menu_footer" aria-current="page" href="contato.php">Contato</a>
+                                    <a class="nav-link" id="link_menu_footer" href="contato.php">Contato</a>
                                 </li>
                             </ul>
                             <ul class="me-4 mb-2 mb-lg-0 col-2" id="order">
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link text-nowrap" id="link_menu_footer" aria-current="page" href="duvidas.php">Dúvidas</a>
+                                    <a class="nav-link text-nowrap" id="link_menu_footer" href="duvidas.php">Dúvidas</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link text-nowrap" id="link_menu_footer" aria-current="page" href="fakenews.php">Fake News</a>
+                                    <a class="nav-link text-nowrap" id="link_menu_footer" href="fakenews.php">Fake News</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link text-nowrap" id="link_menu_footer" aria-current="page" href="normas.php">Normas de Uso</a>
+                                    <a class="nav-link text-nowrap" id="link_menu_footer" href="normas.php">Normas de Uso</a>
                                 </li>
                                 <li class="nav-item" id="li_footer">
-                                    <a class="nav-link text-nowrap" id="link_menu_footer" aria-current="page" href="quemsomos.php">Quem somos</a>
+                                    <a class="nav-link text-nowrap" id="link_menu_footer" href="quemsomos.php">Quem somos</a>
                                 </li>
                             </ul>
                         </div>
